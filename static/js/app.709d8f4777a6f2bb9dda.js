@@ -2927,7 +2927,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 
 
-__WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].config.mode = "staging";
+__WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].config.mode = "production";
 __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].config.productionTip = false;
 
 new __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */]({
@@ -9232,4 +9232,4 @@ webpackContext.id = 921;
 
 /***/ })
 ]),[316]);
-//# sourceMappingURL=app.34419b4b6b3bbc5f7335.js.map
+//# sourceMappingURL=app.709d8f4777a6f2bb9dda.js.map
