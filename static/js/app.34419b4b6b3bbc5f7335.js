@@ -3951,7 +3951,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
   mixins: [__WEBPACK_IMPORTED_MODULE_5__interfaces_knowsMarkdown__["a" /* default */], __WEBPACK_IMPORTED_MODULE_6__interfaces_knowsClasses__["a" /* default */], __WEBPACK_IMPORTED_MODULE_7__interfaces_knowsAudio__["a" /* default */]],
   metaInfo: function metaInfo() {
     return {
-      title: '\u300A' + this.config.seriesTitle + '\u300B' + (this.config.beforeTitle ? this.config.beforeTitle : '') + this.config.title + '\u2192\u6C83\u8349\u2190\u570B\u6703\u7121\u96D9',
+      title: '' + this.config.beforeTitle + this.config.title + '\u2192\u6C83\u8349\u2190\u570B\u6703\u7121\u96D9',
       meta: [{
         vmid: 'og-image',
         property: 'og:image',
@@ -9232,4 +9232,4 @@ webpackContext.id = 921;
 
 /***/ })
 ]),[316]);
-//# sourceMappingURL=app.d35dc3ed283641fd3537.js.map
+//# sourceMappingURL=app.34419b4b6b3bbc5f7335.js.map
