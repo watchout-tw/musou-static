@@ -1571,7 +1571,8 @@ var defaultDarkTextColor = '#333';
         url: 'another-future-dark.jpg',
         width: 2400,
         height: 1350,
-        magnify: false
+        magnify: false,
+        blur: true
       }
     }, {
       id: '1945-08-15',
@@ -2818,6 +2819,17 @@ var defaultDarkTextColor = '#333';
         magnify: false
       },
       description: '台灣知名畫家，東京美術學校研究所畢業，第一屆嘉義市參議員。二二八事件時，至嘉義水上機場與軍隊談判卻遭逮捕，後未經審判於嘉義車站前被槍決。'
+    }, {
+      id: 'closing',
+      classes: ['wide', 'closing'],
+      subtitle: ['誰能料想三月會做洪水！', '那突發的巨浪，沖破了那堅固的防堤。', '那無情的巨浪，流失了那美麗的田園。', '那激怒的巨浪，淹沈了那平和的城市。', '誰能料想三月會做洪水！', '有一位勇敢的青年，曾有過洋的經驗，', '未到防堤就被狂浪捲沒去了。', '有一位理智的青年，抱有新進的理論，', '未到田園就被泥海埋沒去了。', '有一位熱血的青年，吐露無限的純情，', '未到城市就被崩山壓沒去了。', '誰能料想三月會做洪水！', '洪水一過，滿地平坡！', '洪水一過，族親四散！', '洪水一過，人心如灰！', '誰能料想三月會做洪水！', '國家何時再建？', '民族何時復興？', '社會何時改革？'],
+      mainVisual: {
+        type: 'image',
+        url: 'another-future-dark.jpg',
+        width: 2400,
+        height: 1350,
+        magnify: false
+      }
     }] },
   authorship: [{
     job: '編輯設計',
@@ -4050,6 +4062,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
           }
         } else {
           this.croppingMethod = styles.backgroundSize = 'cover';
+        }
+        if (this.mainVisual.blur) {
+          styles.filter = 'blur(4px)';
         }
         styles.backgroundImage = 'url(' + __webpack_require__(42)("./" + this.mainVisual.url) + ')';
       }
@@ -9217,4 +9232,4 @@ webpackContext.id = 921;
 
 /***/ })
 ]),[316]);
-//# sourceMappingURL=app.06ff3a86fefb63d26b56.js.map
+//# sourceMappingURL=app.6768fc7c03ceece87ae2.js.map
