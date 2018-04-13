@@ -3,73 +3,79 @@ webpackJsonp([1],Array(42).concat([
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./3-principles.jpg": 798,
-	"./another-future-dark.jpg": 799,
-	"./another-future-light.jpg": 800,
-	"./another-future/1945-10-11.gif": 801,
-	"./another-future/1945-10-12.gif": 802,
-	"./another-future/1945-10-18.gif": 803,
-	"./another-future/1945-10-28.gif": 804,
-	"./another-future/1945-11-15.gif": 805,
-	"./another-future/1945-12-27.gif": 806,
-	"./another-future/1946-01-18.gif": 807,
-	"./another-future/1946-02-12.gif": 808,
-	"./another-future/1946-02-21.gif": 809,
-	"./another-future/1946-03-16.gif": 810,
-	"./another-future/1946-03-30.gif": 811,
-	"./another-future/1946-03-31.gif": 812,
-	"./another-future/1946-04-06.gif": 813,
-	"./another-future/1946-04-16.gif": 814,
-	"./another-future/1946-04-19.gif": 815,
-	"./another-future/1946-05-07.gif": 816,
-	"./another-future/1946-07-14.gif": 817,
-	"./another-future/1946-07-16.gif": 818,
-	"./another-future/1946-08-13.gif": 819,
-	"./another-future/1946-10-14.gif": 820,
-	"./another-future/1946-10-16.gif": 821,
-	"./another-future/1946-11-18.gif": 822,
-	"./another-future/1946-11-26.gif": 823,
-	"./another-future/1947-02-12.gif": 824,
-	"./another-future/1947-02-26.gif": 825,
-	"./another-future/1947-02-28.gif": 826,
-	"./another-future/creation_of_minpo.jpg": 827,
-	"./another-future/radio.png": 828,
-	"./another-future/吳鴻麒.jpg": 829,
-	"./another-future/施江南.jpg": 830,
-	"./another-future/林界.jpg": 831,
-	"./another-future/林茂生.jpg": 832,
-	"./another-future/楊元丁.jpg": 833,
-	"./another-future/王添灯.jpg": 834,
-	"./another-future/王育霖.jpg": 835,
-	"./another-future/陳澄波.jpg": 836,
-	"./another-future/陳炘.jpg": 837,
-	"./another-future/黃朝生.jpg": 838,
-	"./draw.png": 280,
-	"./hand.svg": 839,
-	"./journey-background.png": 840,
-	"./journey.png": 841,
-	"./map.jpg": 281,
-	"./musou.png": 282,
-	"./placeholders/33349214.jpg": 842,
-	"./placeholders/53vTbZFz.jpg": 843,
-	"./placeholders/70181883.jpg": 844,
-	"./placeholders/70182271.jpg": 845,
-	"./placeholders/NGC3621-.jpg": 846,
-	"./placeholders/_8uD3NOc.jpg": 847,
-	"./placeholders/aab1f208.jpg": 848,
-	"./placeholders/b8dbb78b.jpg": 849,
-	"./placeholders/chatSystems.png": 850,
-	"./placeholders/gb+.jpg": 851,
-	"./placeholders/yoshitoshi.jpg": 852,
-	"./plotdb/dark.png": 283,
-	"./plotdb/light.png": 284,
-	"./qz.png": 853,
-	"./republic-of-china.jpg": 854,
-	"./role-play.png": 855,
-	"./swipe.png": 856,
-	"./terror-30.jpg": 857,
-	"./world_map_mercator-mod.jpg": 858,
-	"./world_map_mercator.jpg": 859
+	"./3-principles.jpg": 802,
+	"./another-future-dark.jpg": 803,
+	"./another-future-light.jpg": 804,
+	"./another-future/1945-10-11.gif": 805,
+	"./another-future/1945-10-12.gif": 806,
+	"./another-future/1945-10-18.gif": 807,
+	"./another-future/1945-10-28.gif": 808,
+	"./another-future/1945-11-15.gif": 809,
+	"./another-future/1945-12-27.gif": 810,
+	"./another-future/1946-01-18.gif": 811,
+	"./another-future/1946-02-12.gif": 812,
+	"./another-future/1946-02-21.gif": 813,
+	"./another-future/1946-03-16.gif": 814,
+	"./another-future/1946-03-30.gif": 815,
+	"./another-future/1946-03-31.gif": 816,
+	"./another-future/1946-04-06.gif": 817,
+	"./another-future/1946-04-16.gif": 818,
+	"./another-future/1946-04-19.gif": 819,
+	"./another-future/1946-05-07.gif": 820,
+	"./another-future/1946-07-14.gif": 821,
+	"./another-future/1946-07-16.gif": 822,
+	"./another-future/1946-08-13.gif": 823,
+	"./another-future/1946-10-14.gif": 824,
+	"./another-future/1946-10-16.gif": 825,
+	"./another-future/1946-11-18.gif": 826,
+	"./another-future/1946-11-26.gif": 827,
+	"./another-future/1947-02-12.gif": 828,
+	"./another-future/1947-02-26.gif": 829,
+	"./another-future/1947-02-28.gif": 830,
+	"./another-future/creation_of_minpo.jpg": 831,
+	"./another-future/radio.png": 832,
+	"./another-future/吳鴻麒.jpg": 833,
+	"./another-future/施江南.jpg": 834,
+	"./another-future/林界.jpg": 835,
+	"./another-future/林茂生.jpg": 836,
+	"./another-future/楊元丁.jpg": 837,
+	"./another-future/王添灯.jpg": 838,
+	"./another-future/王育霖.jpg": 839,
+	"./another-future/陳澄波.jpg": 840,
+	"./another-future/陳炘.jpg": 841,
+	"./another-future/黃朝生.jpg": 842,
+	"./congress-midterm-mock-exam.jpg": 843,
+	"./draw.png": 281,
+	"./hand.svg": 844,
+	"./journey-background.png": 845,
+	"./journey.png": 846,
+	"./logo+type/musou-media-experiment/regular.png": 847,
+	"./logo+watchout+type/musou-media-experiment/regular.png": 282,
+	"./logo/musou-media-experiment/large-1024.png": 848,
+	"./logo/musou-media-experiment/large.png": 283,
+	"./logo/musou-media-experiment/small.png": 284,
+	"./map.jpg": 285,
+	"./musou.png": 286,
+	"./placeholders/33349214.jpg": 849,
+	"./placeholders/53vTbZFz.jpg": 850,
+	"./placeholders/70181883.jpg": 851,
+	"./placeholders/70182271.jpg": 852,
+	"./placeholders/NGC3621-.jpg": 853,
+	"./placeholders/_8uD3NOc.jpg": 854,
+	"./placeholders/aab1f208.jpg": 855,
+	"./placeholders/b8dbb78b.jpg": 856,
+	"./placeholders/chatSystems.png": 857,
+	"./placeholders/gb+.jpg": 858,
+	"./placeholders/yoshitoshi.jpg": 859,
+	"./plotdb/dark.png": 287,
+	"./plotdb/light.png": 288,
+	"./qz.png": 860,
+	"./republic-of-china.jpg": 861,
+	"./role-play.png": 862,
+	"./swipe.png": 863,
+	"./terror-30.jpg": 864,
+	"./world_map_mercator-mod.jpg": 865,
+	"./world_map_mercator.jpg": 866
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -108,12 +114,11 @@ webpackContext.id = 42;
 /* 60 */,
 /* 61 */,
 /* 62 */,
-/* 63 */,
-/* 64 */
+/* 63 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_marked__ = __webpack_require__(91);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_marked__ = __webpack_require__(90);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_marked___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_marked__);
 
 
@@ -126,6 +131,7 @@ webpackContext.id = 42;
 });
 
 /***/ }),
+/* 64 */,
 /* 65 */,
 /* 66 */,
 /* 67 */,
@@ -500,6 +506,30 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony default export */ __webpack_exports__["default"] = ({
   authorship: [{
     job: '編輯',
+    people: ['洪國鈞']
+  }, {
+    job: '設計開發',
+    people: ['游知澔']
+  }],
+  chart: {
+    id: 17070,
+    contentStyle: {
+      backgroundColor: 'white',
+      color: 'black'
+    }
+  },
+  references: []
+});
+
+/***/ }),
+/* 164 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
+/* harmony default export */ __webpack_exports__["default"] = ({
+  authorship: [{
+    job: '編輯',
     people: ['洪國鈞', '王希']
   }, {
     job: '設計開發',
@@ -516,7 +546,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 164 */
+/* 165 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -540,7 +570,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 165 */
+/* 166 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -564,7 +594,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 166 */
+/* 167 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -689,7 +719,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 167 */
+/* 168 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -697,9 +727,9 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony default export */ __webpack_exports__["default"] = ({
   cards: [{
     type: 'text',
-    id: 'preface',
-    title: '《勞基法》流言終結者',
-    content: '我們《沃草》幫你整理這次《勞基法》修法最常見的九個似是而非的說法，都已經這麼簡單了，你還不看嗎？\n\n左右滑滑看啊！\n\n不然，用下面的兩個按鈕也可以。',
+    id: 'cover',
+    title: '勞基法流言終結者',
+    content: '《沃草》幫你整理這次《勞基法》修法最常見的九個似是而非的說法，都已經這麼簡單了，你還不看嗎？\n\n左右滑滑看吧！不然，用下面的兩個按鈕也可以。',
     options: {
       left: {
         type: 'NO',
@@ -712,7 +742,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
     }
   }, {
     type: 'question',
-    question: '先練習一次吧。\n\n**只要努力，人人都有機會成功。**\n\n<span>在卡片上往左滑，或按紅色的按鈕</span><label class="swipe-action-inline NO"></label><span>，表示你不同意這則敘述。往右滑，或按綠色的按鈕</span><label class="swipe-action-inline YES"></label><span>，表示你同意。</span>',
+    title: '練習題',
+    question: '先練習一次吧。\n\n<span>在卡片上往左滑，或按紅色的按鈕</span><label class="swipe-action-inline NO"></label><span>，表示你不同意這則敘述。往右滑，或按綠色的按鈕</span><label class="swipe-action-inline YES"></label><span>，表示你同意。</span>',
     answer: 'YES',
     options: {
       left: {
@@ -724,15 +755,16 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
         label: 'YES'
       }
     },
-    recap: '只要努力，人人都有機會成功？',
-    but: '話是這麼說沒錯，但是⋯\n\n如果聽《沃草》的說法，請按「繼續說下去」，不然，按「下一題謝謝」可以跳出，繼續看下一題。',
+    recap: '幹得好！',
+    but: '選完你的答案之後，我們會告訴你我們的答案。如果想聽更多，請按「繼續說下去」，不然就按「下一題謝謝」，繼續看下一題。',
     more: [{
       type: 'markdown',
-      content: '根據古典自由經濟理論⋯'
+      content: '每過六十秒，就有一分鐘過去。'
     }]
   }, {
     type: 'question',
-    question: '法律規定加班可以換補休，以後都領不到加班費啦 QQ',
+    title: '加班換補休',
+    question: '法律規定加班可以換補休，以後加班費都領不到了啦 QQ',
     answer: 'NO',
     options: {
       left: {
@@ -748,11 +780,12 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
     but: '「加班可換補休」並不一定會讓勞工領不到加班費，不過⋯',
     more: [{
       type: 'markdown',
-      content: '依新《勞基法》第32-1條規定，「加班換補休」的發動權在勞工身上，在勞工選擇補休且雇主同意的情況下，勞雇雙方還需協商補休完成的期限，如果期限內或離職前都沒休完，雇主必須補給加班費。\n\n其實「加班換補休」制度，早於1990年行政院勞工委員會（今勞動部）就以函釋說明「為法所不禁」，表示「用補休代替勞工延長工作時間的加班費」並不違法。從正面的角度來看，這次修法至少將這行之有年的制度明文化，並且寫出對應的罰則。\n\n不過法律中並無寫明「補休期限」的限制，如果勞雇雙方協商出「十年內完成補休」，那麼勞方加班所額外付出的勞力並無法即時得到休息，十年後的加班費用也有可能趕不上物價成長的速度，領到的加班費已經沒有加班當時的價值。'
+      content: '#### 先講結論\n\n依新《勞基法》第32-1條規定，「加班換補休」的發動權在勞工身上，在勞工選擇補休且雇主同意的情況下，勞雇雙方還需協商補休完成的期限，如果期限內或離職前都沒休完，雇主還是要補給加班費。\n\n#### 法條演進\n\n其實「加班換補休」制度，早於1990年行政院勞工委員會（今勞動部）就以函釋說明「為法所不禁」，表示「用補休代替勞工延長工作時間的加班費」並沒有違背法律。也就是說，就算沒有本次修法，業界常見的「加班換補休」就已經是實務上勞動主管機關可以接受的做法。\n\n在1月10日《勞基法》三讀後，勞動部也於1月26日預告施行細則加入「補休期間」的限制，需參考特休假可以週年、曆年或於當年底結清，避免補休期限遙遙無期的問題。\n\n#### 修法影響\n\n從正面的角度來看，這次修法將這行之有年的制度明文化，並且訂定違法所對應的罰則。不過《勞基法》本法中並無寫明「補休期限」的限制，僅在施行細則中補充。如果勞雇雙方協商出「十年內完成補休」這種違反細則、不違反母法的行為，在細則不能逾越母法的法律原則下，主管機關是否能逕行裁罰，仍有相當爭議。而部分學者和工運團體所倡議的「補休比照加班費加成計算」，雖有中國國民黨立委蔣萬安提案，但也未能通過審查。'
     }]
   }, {
     type: 'question',
-    question: '休息日加班費費率變低，加班費要減少啦 QQ',
+    title: '休息日加班費',
+    question: '休息日加班費費率變低，加班費要減少了啦 QQ',
     answer: 'NO',
     options: {
       left: {
@@ -764,24 +797,21 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
         label: 'YES'
       }
     },
-    recap: '休息日加班費費率變低，加班會會減少？',
-    but: '雖然加班費不會因為費率變低而減少，但是⋯',
+    recap: '休息日加班費費率變低，加班費會減少？',
+    but: '休息日加班費不會因為費率變低而減少，但是⋯',
     more: [{
       type: 'markdown',
-      content: '新《勞基法》第24條並未調整休息日加班費費率，但「擬制工時」制度的廢除，可能會造成加班費的減少。\n\n休息日制度是從2016年底通過的《勞基法》新加入的概念，民進黨政府為了落實「週休二日」政見，用「以價制量」減少加班機會，讓每週上班的第六天（休息日）有較高的加班費，勞工前兩小時至少可多領一又三分之一、之後可多領一又三分之二的薪資。同時，也加入「擬制工時」制度，休息日加班「四小時內都算四小時」、「超過五小時至八小時都算八小時」。\n\n而2018年初通過的新《勞基法》將原先休息日加班「擬制工時」制度取消，都改回核實計算，也就是「做多久算多久」的加班費計算方式，但加班費率本身並未調整。支持者認為，這樣的修法能讓老闆願意請員工加班，勞工才拿得到休息日加班費；但反對者認為這會讓勞工休息日的加班費減少，也失去當初制定休息日用「以價制量」來推動週休二日的本意。'
-    }, {
-      type: 'markdown',
-      content: '以月薪 36,000 元和月薪 43,200 元勞工在修法前後的每小時休息日加班費差異為例。'
+      content: '#### 先講結論\n\n新《勞基法》第24條並未調整休息日加班費費率，但「擬制工時」制度的廢除，可能會造成加班費的減少。\n\n#### 法條演進\n\n休息日本來即是勞動主管機關函釋及勞動法學就有的概念與用詞，2016年底民進黨政府將其明文入法。民進黨政府為了落實「週休二日」政見，用「以價制量」減少加班機會，讓每週上班的第六天（休息日）有較高的加班費，勞工前兩小時至少可多領一又三分之一、之後可多領一又三分之二的薪資。同時，也加入「擬制工時」制度，休息日加班「四小時內都算四小時」、「超過五小時至八小時都算八小時」。\n\n而2018年初通過的新《勞基法》將原先休息日加班「擬制工時」制度取消，都改回核實計算，也就是「做多久算多久」的加班費計算方式，但加班費率本身並未調整。\n\n#### 法條演進\n\n支持者認為，原本的「擬制工時」制度設計，勞工只要去工作一小時就算四小時加班，讓雇主寧願休息日不開工，修法取消「擬制工時」才能讓雇主願意請員工加班，勞工也才拿得到休息日加班費；但反對者認為這會讓勞工休息日的加班費減少，也失去當初制定休息日用「以價制量」來推動週休二日的本意。\n\n以月薪 36,000 元勞工在修法前後的每小時休息日加班費差異為例。休息日加班了 5 小時， 修法前可以拿到 1,900 元，修法後改拿 1,150 元，減少 750 元。'
     }, {
       type: 'figure',
-      description: '例 1：月薪 36,000 元的小明在休息日加班了 5 小時， 修法前可以拿到 1,900 元，修法後改拿 1,150 元，減少 750 元。'
-    }, {
-      type: 'figure',
-      description: '例 2：月薪 43,200 元的小雅在休息日加班了 3 小時， 修法前可以拿到 1,080 元，修法後改拿 780 元，減少 300 元。'
+      platform: 'infogram',
+      id: '34df8c36-f538-411d-8afb-1328f31c1cd1',
+      height: 250
     }]
   }, {
     type: 'question',
-    question: '每個月加班工時上限提高了，以後每個月都要多加班八小時了啦 QQ',
+    title: '加班上限',
+    question: '加班工時上限提高了，以後每個月都要多加班八小時了啦 QQ',
     answer: 'NO',
     options: {
       left: {
@@ -793,14 +823,20 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
         label: 'YES'
       }
     },
-    recap: '每個月加班工時上限提高，每個月要多加班八小時？',
-    but: '不會每個月多加班，不過⋯',
+    recap: '加班工時上限提高，每個月要多加班八小時？',
+    but: '不會每個月都多加班八小時，不過⋯',
     more: [{
       type: 'markdown',
-      content: 'Lorem ipsum.'
+      content: '#### 先講結論\n\n新《勞基法》第 32 條將原先單月加班上限 46 小時的提高為 54 小時。本次提高加班時數上限的修法，其實並不會直接對所有勞工產生效果，雇主必須經過工會或勞資會議的同意，才能將月加班時數從 46 小時調整至 54 小時，而每三個月最高加班時數仍維持 138 小時，並不會每個月都多加班 8 小時。但在旺季可加班時數上限提高的情況下，勞工整體加班時數恐將成長，最多甚至能連續四個月加班 54 小時。\n\n#### 法條演進\n\n其實立法院不是第一次討論調整加班工時上限。在 2015 年修《勞基法》時，馬政府行政院版草案除了將正常工時從「雙週 84 小時」改為「單週 40 小時」，也有提案將每月加班時數上限從 46 小時提高到 54 小時。以每月 30 日為例，原先一個月的總工時上限為 184（正常工時）加上 46（加班工時）共 230 小時，2015年行政院版是將減少 8 小時正常工時，增加 8 小時加班時數，但當時立法院審議通過的版本僅減少 8 小時正常工時，並未調整加班時數。2018 年新《勞基法》通過後，每月最高總工時將回到 230 小時（ 176 正常工時加上 54 加班工時），但每三個月最高加班時數仍維持 138 小時。\n\n#### 修法影響\n\n針對本條修法，支持的意見認為，這可以解決產業淡旺季的問題，能在滿足短期內大量的加班需求，也可以讓勞工有更多加班機會、領到更多加班費；不過在每三個月加班時數上限固定的情況下，加班費總數上限其實也不會變，其實總加班費上限也不會更多。\n\n另外，雖然每三個月的加班時數上限與修法前一樣為 138 小時，但法律並未規定「任連續三個月加班時數不得超過 138 小時」，因此可能出現六個月中頭尾加班 30 小時、中間連續四個月加班 54 小時的極端狀況。而在各國都在逐步降低每月工時上限時，台灣卻獨步全球提高，原已名列前茅的總工時排名恐將再「進步」。'
+    }, {
+      type: 'figure',
+      platform: 'infogram',
+      id: '06b798eb-b85b-4742-8e0d-2f2ea900fc4d',
+      height: 300
     }]
   }, {
     type: 'question',
+    title: '早就七休一',
     question: '「七休一」條文從《勞基法》訂定時就存在，已經實施超過三十年！',
     answer: 'YES',
     options: {
@@ -814,13 +850,14 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
       }
     },
     recap: '「七休一」已經實施超過三十年？',
-    but: '的確可以說「七休一已經實施超過三十年」，但是⋯',
+    but: '「七休一」是可以說已經實施超過三十年，但是⋯',
     more: [{
       type: 'markdown',
-      content: 'Lorem ipsum.'
+      content: '#### 先講結論\n\n「七休一」相關條文確實於 1984 年《勞基法》訂定時就已存在，但其實 1986 年內政部勞工司（今勞動部）就已經以函釋放寬，直至 2016 年 9 月蔡英文政府廢除舊函釋、另訂新函釋前，「七休一」一直都沒真正落實。而在 3 月 1 日勞動新制上路後，目前僅有經[勞動部公告業別](https://www.mol.gov.tw/media/5758708/指定勞動基準法第36條第4項行業.pdf)的勞工可能會排除「七休一」，並不是所有勞工都將「連續工作十二天」。\n\n#### 法條演進\n\n1984 年《勞基法》草創時，第 36 條就明定「勞工每七日中至少應有一日之休息，作為例假。」但 1986 年內政部長吳伯雄就發出函釋說明「例假日原則上應間隔六個工作日」（七休一），如有必要可在工會或勞工同意後，「於各該週期內酌情更動」（十四休二）。可以說「七休一」制度在 1986 年後就名存實亡了。\n\n直至 2016 年 6 月民進黨立委鍾孔炤於立法院質詢時，要求勞動部廢止該函釋並獲委員會通過，勞動部才於 6 月 29 日[廢止舊函釋](https://www.mol.gov.tw/media/3809646/1050629-廢止內政部75年5月17日398001號函令.pdf)。其後，勞動部於 9 月 10 日[發布新函釋](https://www.mol.gov.tw/media/3809951/105年9月10日勞動條3字第1050132134號令.pdf)，明定必須在特定條件下雇主才能要求勞工連續工作十二天。\n\n#### 修法影響\n\n這次新《勞基法》則是將放寬「七休一」的過程明文化，需要是[勞動部指定之行業](https://www.mol.gov.tw/media/5758708/指定勞動基準法第36條第4項行業.pdf)，再經工會或勞資會議同意後，才能讓勞工連續上班十二天（十四休二）。不過法律條文並未明定勞動部需要經由什麼程序指定可放寬七休一的行業，雖然目前僅有部分勞工會放寬「七休一」，但在現行台灣工會比例和勞權意識仍有待加強的情況下，反對修法者質疑這恐怕會讓「七休一」徹底失守，這次修法恐怕會讓勞動現場全面回歸「十四休二」。'
     }]
   }, {
     type: 'question',
+    title: '休息八小時',
     question: '要累死了，以後每個人下班後八小時就可以繼續上班 QQ',
     answer: 'NO',
     options: {
@@ -837,11 +874,12 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
     but: '其實不是每個人都會這樣⋯',
     more: [{
       type: 'markdown',
-      content: 'Lorem ipsum.'
+      content: '#### 先講結論\n\n新《勞基法》第 34 條僅適用於「輪班制」勞工，原則上輪班間隔需達 11 小時，目前僅有[勞動部公告的行業](https://www.mol.gov.tw/media/5758558/新聞稿附件1.pdf)中，雇主可以在工會或勞資會議同意的情況下，將輪班間隔調整至 8 小時。修法前《勞基法》雖有規定輪班間隔至少為 11 小時，但由於本條文有規定「施行日期由行政院定之」，而行政院始終未公布施行日期，所以其實該條文在修法前僅形同具文，在修法後則明定於 2018 年 3 月 1 日實施。\n\n#### 法條演進\n\n其實《勞基法》原先僅有規定輪班間隔需要有「適當休息時間」，並未明定「適當」是多久。在 2015 年行政院提出的《勞基法》草案，就有針對第 34 條提案修正，將輪班間隔的休息時間明定為 11 小時，但當時立法院並未就此版本進行討論。2016 年底《勞基法》再修，雖當時行政院版草案並未加入「定義適當休息時間」條文，是由時代力量立委以修正動議加入輪班間隔休息時間 11 小時條文，但民進黨團隨後又補上「施行日期由行政院定之」，並以此版本三讀通過。在行政院始終未公布施行日期的情況下，11 小時輪班間隔其實從未實施過。\n\n#### 修法影響\n\n針對輪班間隔時間修法，支持者認為原本適用全體行業的「11 小時輪班間隔」根本無法落實，讓行政院遲遲無法公布施行日期，修法放寬部分特例後實施，才能真正讓絕大多數輪班制勞工享受「11 小時輪班間隔」；反對修法者則認為，8 小時輪班間隔會讓勞工過勞，甚至能讓適用放寬輪班間隔的台鐵員工極端班表「不合理但合法」，置勞工和乘客安全於不顧。'
     }]
   }, {
     type: 'question',
-    question: '公司沒工會，也沒開過勞資會議，放寬七休一、加班時數上限調整跟我沒關係吧？',
+    title: '工會',
+    question: '公司沒工會，也沒開過勞資會議，放寬七休一、加班時數上限調整跟我沒關係！',
     answer: 'YES',
     options: {
       left: {
@@ -857,11 +895,12 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
     but: '可以這樣說沒錯，不過⋯',
     more: [{
       type: 'markdown',
-      content: 'Lorem ipsum.'
+      content: '#### 先講結論\n\n如果公司沒工會又真的沒有開過勞資會議，那放寬七休一和加班時數上限調整就不會發生。不過，你的公司很可能會在你不知情的狀況下召開勞資會議同意這些例外放寬。\n\n#### 法條演進\n\n其實勞資會議早有其法律依據，[1985年](https://laws.mol.gov.tw/FLAW/FLAWDAT0801.aspx?lsid=FL014925&ldate=19850513)就依據《勞基法》第 83 條訂定「勞資會議實施辦法」。最早規定「勞資會議每月舉行一次為原則」，[2001年](https://laws.mol.gov.tw/FLAW/FLAWDAT0801.aspx?lsid=FL014925&ldate=20011029&modify=1)又調整至「每三個月至少舉行一次」，但在始終沒有罰則的情況下，不辦理勞資會議也不會有事，實際上很少有公司會舉辦勞資會議。以台北市為例，依據台北市勞動局公開資訊，2016 和 2017 年有設立勞資會議代表的事業單位僅有[4027家](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvMzA3L3JlbGZpbGUvMTE4NjkvMTA0Ni8wNDQ4OWNhNy0xYjQ3LTQ3MjktOTU2ZC03MjI0NTY3ZmY0N2IucGRm&n=MDHoh7rljJfluILmlL%2flupwxMDXlubTlj4oxMDblubTmnInoqK3nq4vli57os4fmnIPorbDku6PooajkuYvkuovmpa3llq7kvY0o6LOH5paZ6IezMTA25bm0MTHmnIjmraIpLnBkZg%3d%3d)，相對於在[178,711家](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNDA5L3JlbGZpbGUvMjAzMzEvNzU4MTQ5Ny8yYWNkMTg4Yi0wMmUyLTQ3MDctYThkNi01NDkzNTAxODMzZTgucGRm&n=6KSH5pysIOiHuuWMl%2bW4guWFrOWPuOeZu%2biomOWgseihqDEwNjEyLnBkZg%3d%3d&icon=.pdf)在臺北市登記的公司中，僅佔2.25%。\n\n#### 修法影響\n\n除了很少公司會真的召開勞資會議，已召開的勞資會議從參加會議代表到會議決議效力也有許問題。很多不肖公司會「製造」勞資會議，當員工發現有不利的勞動條件問題想反對時，才發現公司早就開過勞資會議，做出傾向資方的決議。原來勞資會議中的勞方代表根本是資方安排的人，沒有經過公司全體勞工推派，不具有能代表公司多數勞工的正當性，面對這樣的狀況，勞動部過去卻長久忽視，沒有提出具體改善的措施，勞工往往無從著力，也難以蒐證檢舉。亦有實際案例顯示，即使已組成有代表性的工會，也無法推翻之前由資方主導的勞資會議所通過的決議。不過也有人對這次修法表持正面意見，認為勞工可以透過勞資會議拒絕不想要的「彈性」，也可以此為手段，爭取更高的加班待遇。'
     }]
   }, {
     type: 'question',
-    question: '遊覽車司機工時超長，這次修法，會讓他們更慘 QQ',
+    title: '勞檢',
+    question: '檢舉沒用啦！公司違反勞基法，政府都不來勞檢！',
     answer: 'NO',
     options: {
       left: {
@@ -873,14 +912,15 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
         label: 'YES'
       }
     },
-    recap: '這次修法，會讓遊覽車司機更慘？',
-    but: '其實遊覽車司機不會因為這次修法而更慘，因為⋯',
+    recap: '檢舉沒用，政府都不來勞檢？',
+    but: '檢舉不一定有用，但不檢舉更沒用',
     more: [{
       type: 'markdown',
-      content: 'Lorem ipsum.'
+      content: '勞動部的勞檢員數量長期不足，連勞工檢舉的案件都不一定能進行檢查，在第一次檢查後也只能先要求雇主改善，可以開罰的第二次檢查都常因為人力不足無法落實，要求政府全面主動進行勞檢相當困難。雖然政府正在逐年增加勞檢員數量，但無論如何都不太可能全面檢查所有企業，若遇自己公司有不法行為，期待政府主動出擊檢查到自己的公司進而改善，其實是不太實際的期待。\n\n勞工若遇到雇主違法，一定要即時跟雇主反應若無法改善應該立刻進行檢舉爭取自己的權益，若不敢負擔直接向雇主反應以及撥打1955的代價，只希望政府來出動勞檢拯救自己，不管在理論或實際上其實都是不切實際的。勞工一定必須勇於檢舉或是透過媒體和網路社群揭露不法的雇主。若認為個人對抗資方風險高力量小，也可進一步透過籌組工會來增強力量，要求雇主守法外，甚至進一步增加勞動條件。\n\n你的雇主違法了嗎？公司沒遵守勞基法嗎？除了撥打1955，更可以直接[線上填表申訴](https://docweb.mol.gov.tw/email_query_osha/)，別讓姑息成了勞動權益的幫凶喔！'
     }]
   }, {
     type: 'question',
+    title: '中小企業',
     question: '這次修法後，民進黨立委說的中南部中小企業就可以讓勞工在例假日上班了耶！',
     answer: 'YES',
     options: {
@@ -901,6 +941,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
     }]
   }, {
     type: 'question',
+    title: '保全業',
     question: '保全業的勞工已經夠慘了，修法後，工時規定更有「彈性」，要更過勞了 QQ',
     answer: 'NO',
     options: {
@@ -936,7 +977,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 168 */
+/* 169 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -968,10 +1009,35 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 169 */
+/* 170 */
 /***/ (function(module, exports) {
 
 exports.default = [{
+  id: 'qz',
+  image: 'qz.png',
+  title: '小測驗',
+  description: '中華民國的教育系統最喜歡考試了。沃草也有小測驗，現在就試試看，看你是不是個好學生。',
+  component: 'longform',
+  pages: [{
+    id: 'congress-midterm-mock-exam',
+    title: '國會草知識期中模擬考',
+    image: 'congress-midterm-mock-exam.jpg',
+    date: '2018-04-14 20:00:00',
+    breaking: true
+  }, {
+    id: '3-principles',
+    title: '你唸過三民主義嗎？',
+    image: '3-principles.jpg',
+    date: '2017-11-12 20:00:00',
+    breaking: false
+  }, {
+    id: 'republic-of-china',
+    title: '做個堂堂正正的中華民國人',
+    image: 'republic-of-china.jpg',
+    date: '2017-10-10 20:00:00',
+    breaking: false
+  }]
+}, {
   id: 'journey',
   image: 'journey.png',
   title: '小旅行',
@@ -984,25 +1050,6 @@ exports.default = [{
     image: 'another-future-light.jpg',
     date: '2018-02-27 20:00:00',
     breaking: true
-  }]
-}, {
-  id: 'qz',
-  image: 'qz.png',
-  title: '小測驗',
-  description: '中華民國的教育系統最喜歡考試了。沃草也有小測驗，現在就試試看，看你是不是個好學生。',
-  component: 'longform',
-  pages: [{
-    id: '3-principles',
-    title: '你唸過三民主義嗎？',
-    image: '3-principles.jpg',
-    date: '2017-11-12 20:00:00',
-    breaking: false
-  }, {
-    id: 'republic-of-china',
-    title: '做個堂堂正正的中華民國人',
-    image: 'republic-of-china.jpg',
-    date: '2017-10-10 20:00:00',
-    breaking: false
   }]
 }, {
   id: 'role-play',
@@ -1046,7 +1093,7 @@ exports.default = [{
 }];
 
 /***/ }),
-/* 170 */
+/* 171 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -1072,7 +1119,6 @@ var CACHE_GOV_AGENCIES = 'cacheGovAgencies';
 var CACHE_LEGISLATIVE_STEPS = 'cacheLegislativeSteps';
 
 /***/ }),
-/* 171 */,
 /* 172 */,
 /* 173 */,
 /* 174 */,
@@ -1181,48 +1227,67 @@ var CACHE_LEGISLATIVE_STEPS = 'cacheLegislativeSteps';
 /* 277 */,
 /* 278 */,
 /* 279 */,
-/* 280 */
+/* 280 */,
+/* 281 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/draw.eed38e2.png";
 
 /***/ }),
-/* 281 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/img/map.4325906.jpg";
-
-/***/ }),
 /* 282 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/musou.c659c44.png";
+module.exports = __webpack_require__.p + "static/img/regular.1c3e8f2.png";
 
 /***/ }),
 /* 283 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/dark.246a204.png";
+module.exports = __webpack_require__.p + "static/img/large.7ba100b.png";
 
 /***/ }),
 /* 284 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/light.d2a9e55.png";
+module.exports = __webpack_require__.p + "static/img/small.5589191.png";
 
 /***/ }),
 /* 285 */
 /***/ (function(module, exports, __webpack_require__) {
 
+module.exports = __webpack_require__.p + "static/img/map.4325906.jpg";
+
+/***/ }),
+/* 286 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/img/musou.c659c44.png";
+
+/***/ }),
+/* 287 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/img/dark.246a204.png";
+
+/***/ }),
+/* 288 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/img/light.d2a9e55.png";
+
+/***/ }),
+/* 289 */
+/***/ (function(module, exports, __webpack_require__) {
+
 
 /* styles */
-__webpack_require__(720)
+__webpack_require__(724)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(336),
+  __webpack_require__(340),
   /* template */
-  __webpack_require__(896),
+  __webpack_require__(903),
   /* scopeId */
   null,
   /* cssModules */
@@ -1233,17 +1298,17 @@ module.exports = Component.exports
 
 
 /***/ }),
-/* 286 */
+/* 290 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./annual-revenue.json": 913,
-	"./annual-spending.json": 914,
-	"./annual-visitors.json": 915,
-	"./monthly-visitors-china.json": 916,
-	"./monthly-visitors-world.json": 917,
-	"./public-debt.json": 918,
-	"./unemployment.json": 919
+	"./annual-revenue.json": 920,
+	"./annual-spending.json": 921,
+	"./annual-visitors.json": 922,
+	"./monthly-visitors-china.json": 923,
+	"./monthly-visitors-world.json": 924,
+	"./public-debt.json": 925,
+	"./unemployment.json": 926
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -1259,40 +1324,40 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 286;
+webpackContext.id = 290;
 
 /***/ }),
-/* 287 */
+/* 291 */
 /***/ (function(module, exports) {
 
 module.exports = [{"link":"http://edition.cnn.com/2017/05/24/asia/taiwan-same-sex-marriage/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"CNN","full_quote":"Taiwan's top court has cleared the way for the island to become the first place in Asia to grant same-sex couples the right to marry.","what":"place","what_in_english":"","media_hq_city":"Atlanta, GA","media_hq_country":"US","region":"nam","verification":"kuochun","lat":33.7490987,"lng":-84.3901849},{"link":"http://www.bbc.com/news/world-asia-40012047","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"BBC","full_quote":"paving the way for it to become the first place in Asia to legalise same-sex unions.","what":"place","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"http://www.npr.org/sections/thetwo-way/2017/05/24/529841027/taiwans-high-court-rules-same-sex-marriage-is-legal-in-a-first-for-asia","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"NPR","full_quote":"paves the way for the island to become the first place in Asia to legalize gay marriage.","what":"island, place","what_in_english":"","media_hq_city":"Washington D.C.","media_hq_country":"US","region":"nam","verification":"kuochun","lat":38.8949549,"lng":-77.0366456},{"link":"http://www.independent.co.uk/news/world/asia/taiwan-court-same-sex-marriage-asia-first-place-gay-union-recognise-lgbt-rights-homosexual-lesbian-a7752631.html","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Independent","full_quote":"Taiwan court rules in favour of same sex marriage in historic first for an Asian country","what":"country","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"https://www.theatlantic.com/news/archive/2017/05/taiwans-same-sex-marriage-victory/527946/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Atlantic","full_quote":"If the country pursues neither option","what":"country","what_in_english":"","media_hq_city":"Washington D.C.","media_hq_country":"US","region":"nam","verification":"kuochun","lat":38.8949549,"lng":-77.0366456},{"link":"https://www.washingtonpost.com/world/in-milestone-decision-taiwan-court-rules-in-favor-of-same-sex-marriage/2017/05/24/bf7aa370-405b-11e7-9851-b95c40075207_story.html?utm_term=.733a8baafdd1","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Washington Post","full_quote":"paving the way for the island to become the first place in Asia to legalize same-sex unions and cementing its status as a beacon for LGBT rights.","what":"island, place","what_in_english":"","media_hq_city":"Washington D.C.","media_hq_country":"US","region":"nam","verification":"kuochun","lat":38.8949549,"lng":-77.0366456},{"link":"http://www.latimes.com/world/la-fg-taiwan-same-sex-marriage-20170524-story.html","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"LA Times","full_quote":"The island has been independently administered since the communists took control in Beijing in 1949.","what":"island","what_in_english":"","media_hq_city":"LA, CA","media_hq_country":"US","region":"nam","verification":"kuochun","lat":36.7014631,"lng":-118.7559974},{"link":"http://shanghaiist.com/2017/05/24/taiwan-gay-marriage.php","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"shanghaiist","full_quote":"-","what":"-","what_in_english":"","media_hq_city":"Shanghai","media_hq_country":"China","region":"asia","verification":"kuochun","lat":31.2253441,"lng":121.4888922},{"link":"http://www.news.com.au/world/asia/taiwan-leapfrogs-australia-to-become-second-asia-pacific-nation-to-rule-in-favour-of-same-sex-marriage/news-story/51bf7ec0638bcc7101d980edaab06a0a","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"news.com.au","full_quote":"Taiwan leapfrogs Australia to become second Asia Pacific nation to rule in favour of same sex marriage","what":"nation","what_in_english":"","media_hq_city":"","media_hq_country":"Australia","region":"pacific","verification":"kuochun","lat":-24.7761086,"lng":134.755},{"link":"http://www.pbs.org/newshour/rundown/taiwan-court-clears-sex-marriage-lgbt/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"PBS","full_quote":"Taiwan’s highest court on Wednesday cleared a path for the country to make history as the first Asian nation to allow same-sex partnerships.","what":"country, nation","what_in_english":"","media_hq_city":"Arlington, Virginia","media_hq_country":"US","region":"nam","verification":"kuochun","lat":38.8903961,"lng":-77.0841585},{"link":"http://www.telegraph.co.uk/news/2017/05/24/taiwan-make-landmark-gay-marriage-ruling/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Telegraph","full_quote":"Taiwan’s top court cleared the way for the island to become the first country in Asia to legalise same-sex marriage.","what":"country","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"https://www.vox.com/world/2017/5/24/15685660/taiwan-gay-marriage-same-sex-marriage-legal","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Vox","full_quote":"The island’s highest court had just struck down Taiwan’s anti–gay marriage laws as unconstitutional","what":"island","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.chicagotribune.com/news/nationworld/ct-taiwan-same-sex-marriage-20170524-story.html","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Chicago Tribune","full_quote":"Taiwan becomes first country in Asia to recognize same-sex marriage","what":"country","what_in_english":"","media_hq_city":"Chicago","media_hq_country":"US","region":"nam","verification":"kuochun","lat":41.8755546,"lng":-87.6244212},{"link":"http://www.smh.com.au/comment/view-from-the-street/taiwan-ruins-our-dumbest-argument-against-marriage-equality-20170525-gwcwn0.html","contributor":"kuochun","publish_date":"2017-05-26","publish_time":"","media":"The Sydney Morning Herald","full_quote":"Taiwan is a Chinese satellite nation that's not even a member of the United Nations.","what":"Chinese satellite nation","what_in_english":"","media_hq_city":"Sydney","media_hq_country":"Australia","region":"pacific","verification":"kuochun","lat":-33.8548157,"lng":151.2164539},{"link":"http://www.aljazeera.com/news/2017/05/taiwan-top-court-rules-favour-gay-marriage-170524063603646.html","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"Al Jazeera English","full_quote":"paves the way for the island to become the first place in Asia to legalise same-sex unions.","what":"place","what_in_english":"","media_hq_city":"","media_hq_country":"Qatar","region":"asia","verification":"kuochun","lat":25.3336984,"lng":51.2295295},{"link":"http://www.scmp.com/news/china/society/article/2095518/taiwans-top-court-rules-favour-gay-marriage-landmark-case","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"South China Morning Post","full_quote":"paving the way for the island to become the first place in Asia to legalise gay unions.","what":"place","what_in_english":"","media_hq_city":"","media_hq_country":"Hong Kong","region":"asia","verification":"kuochun","lat":22.2793278,"lng":114.1628131},{"link":"https://www.forbes.com/sites/ralphjennings/2017/05/23/15-taiwan-judges-will-decide-fate-of-asias-flagship-same-sex-marriage-law/","contributor":"kuochun","publish_date":"2017-05-23","publish_time":"","media":"Forbes","full_quote":"pave the way for new laws within the country that will protect same-sex couples","what":"country","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.straitstimes.com/asia/east-asia/taiwans-top-courts-set-to-rule-on-same-sex-marriage","contributor":"kuochun","publish_date":"2017-05-23","publish_time":"","media":"The Straits Times","full_quote":"","what":"place","what_in_english":"","media_hq_city":"","media_hq_country":"Singapore","region":"asia","verification":"before_748","lat":1.2904753,"lng":103.8520359},{"link":"http://www.straitstimes.com/asia/east-asia/taiwan-top-court-rules-gay-marriage-legal-a-first-in-asia","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Straits Times","full_quote":"Taiwan becomes the first Asian country to allow same-sex marriage following a ruling by the constitutional court on Wednesday.","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"Singapore","region":"asia","verification":"kuochun","lat":1.2904753,"lng":103.8520359},{"link":"http://indiatoday.intoday.in/story/taiwan-same-sex-marriage-first-asian-country-homosexuality/1/961861.html","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"indiatoday","full_quote":"becoming the first place in Asia to do so.","what":"place","what_in_english":"","media_hq_city":"Noida","media_hq_country":"India","region":"asia","verification":"kuochun","lat":28.5726442,"lng":77.3547609},{"link":"http://www.nbcnews.com/news/world/taiwan-court-rules-same-sex-marriage-legal-asia-first-n763931","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"NBC News","full_quote":"punctuating a yearslong campaign by advocates for gay rights in one of the continent's most liberal democracies.","what":"democracies","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.cbsnews.com/news/taiwan-same-sex-marriage-constitution-court-ruling-republic-of-china/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"CBS","full_quote":"making the island the first place in Asia to recognize gay unions.","what":"island, place","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.channelnewsasia.com/news/asiapacific/taiwan-top-court-rules-in-favour-of-gay-marriage-8879302","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Channel News Asia","full_quote":"paves the way for the island to become one of the first places in Asia to legalise same-sex unions.","what":"island, place","what_in_english":"","media_hq_city":"","media_hq_country":"US","region":"nam","verification":"kuochun","lat":39.7837304,"lng":-100.4458825},{"link":"https://qz.com/990669/a-taiwan-court-just-overturned-a-ban-on-same-sex-marriage-a-landmark-in-gay-rights-for-asia/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"qz","full_quote":"the self-governing island of Taiwan became the first place in Asia to recognize a constitutional right to same-sex marriage for all its people.","what":"island, place","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://thediplomat.com/2017/05/taiwans-same-sex-marriage-breakthrough-in-context/","contributor":"kuochun","publish_date":"2017-05-26","publish_time":"","media":"The Diplomat","full_quote":"Taiwan is poised to be the first Asian country to legalize same-sex marriage","what":"country","what_in_english":"","media_hq_city":"Tokyo","media_hq_country":"Japan","region":"asia","verification":"kuochun","lat":34.2255804,"lng":139.294774527387},{"link":"http://www.dailymail.co.uk/news/article-4536944/Taiwan-country-Asia.html","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Daily Mail","full_quote":"Taiwan becomes the first nation in Asia to recognise same-sex marriage in landmark ruling","what":"nation","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"https://www.rt.com/news/389565-taiwan-court-gay-marriage/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"RT","full_quote":"The landmark decision paves the way for Taiwan to become the first place in Asia to allow gay unions.","what":"place","what_in_english":"","media_hq_city":"Moscow","media_hq_country":"Russia","region":"europe","verification":"kuochun","lat":55.7507178,"lng":37.6176606},{"link":"http://www.huffingtonpost.com/entry/taiwan-marriage-equality_us_59257b16e4b0ec129d3100c7","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Huffington Post","full_quote":"The island could become the first place in Asia to welcome marriage equality.","what":"island, place","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.businessinsider.com/taiwan-just-became-the-first-asian-country-to-legalise-same-sex-marriage-2017-5","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Business Insider","full_quote":"Taiwan to become the first Asian country to legalise same-sex marriage","what":"country","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.thestar.com.my/news/world/2017/05/25/taiwan-samesex-marriage-ruling-brightens-outlook-for-gay-rights-in-china/","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"thestar.com.my","full_quote":"But mainstream Chinese media either ignored the decision by the island's constitutional court","what":"island","what_in_english":"","media_hq_city":"Kuala Lumpur","media_hq_country":"Malaysia","region":"asia","verification":"kuochun","lat":3.1570976,"lng":101.7009528},{"link":"https://www.rte.ie/news/2017/0524/877480-taiwan/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"RTÉ","full_quote":"with growing momentum behind the push for equal marriage rights on the island.","what":"island","what_in_english":"","media_hq_city":"Dublin","media_hq_country":"Ireland","region":"europe","verification":"kuochun","lat":53.3497645,"lng":-6.2602732},{"link":"http://news.sky.com/story/taiwan-campaigners-celebrate-as-court-backs-gay-marriage-10891368","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"skynews","full_quote":"Taiwan could become the first place in Asia to legalise same-sex marriage ","what":"place","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"http://www.dw.com/en/taiwan-says-yes-to-gay-marriage/av-38974939","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Deutsche Welle","full_quote":"The island nation is set to become first Asian country to legalize same-sex marriage.","what":"nation, country","what_in_english":"","media_hq_city":"Bonn","media_hq_country":"Germany","region":"europe","verification":"kuochun","lat":50.735851,"lng":7.10066},{"link":"http://www.abc.net.au/news/2017-05-25/taiwan-becomes-first-asian-country-to-recognise-gay-marriage/8557380","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"Australian Broadcasting Corporation","full_quote":"Taiwan becomes first Asian country to recognise same-sex marriage","what":"country","what_in_english":"","media_hq_city":"Ultimo","media_hq_country":"Australia","region":"pacific","verification":"kuochun","lat":-33.8794728,"lng":151.1984346},{"link":"http://asia.nikkei.com/Politics-Economy/Policy-Politics/Taiwan-court-rules-in-favor-of-same-sex-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Nikkei","full_quote":"Island set to become first in Asia to allow gay couples to marry","what":"island","what_in_english":"","media_hq_city":"Tokyo","media_hq_country":"Japan","region":"asia","verification":"kuochun","lat":34.2255804,"lng":139.294774527387},{"link":"http://www.jpost.com/Breaking-News/Taiwan-approves-same-sex-marriage-first-such-ruling-in-Asia-493913","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"The Jerusalem Post","full_quote":"or focused on the island's few protesters against it. ","what":"island","what_in_english":"","media_hq_city":"Jerusalem","media_hq_country":"Israel","region":"asia","verification":"kuochun","lat":31.78911765,"lng":35.2229730135452},{"link":"http://www.newsweek.com/taiwan-gay-marriage-first-asian-country-614597","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Newsweek","full_quote":"a landmark decision paving the way for marriage equality in the country.","what":"country","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"https://news.vice.com/story/taiwan-inches-closer-to-allowing-same-sex-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Vice","full_quote":"The island nation’s top court ruled Wednesday that the current legal definition of marriage as between only a man and woman is unconstitutional.","what":"nation","what_in_english":"","media_hq_city":"Brooklyn, NY","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.64530975,"lng":-73.9550230275334},{"link":"http://www.elle.com.au/news/taiwan-same-sex-marriage-13224","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"ELLE","full_quote":"Taiwan On Its Way To Becoming The First Country In Asia To Legalise Same-Sex Marriage","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"Australia","region":"pacific","verification":"kuochun","lat":-24.7761086,"lng":134.755},{"link":"http://www.irishtimes.com/news/world/asia-pacific/taiwan-set-to-be-first-asian-state-to-allow-same-sex-marriage-1.3095071","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Irish Times","full_quote":"Taiwan set to be first Asian state to allow same-sex marriage","what":"state","what_in_english":"","media_hq_city":"Dublin","media_hq_country":"Ireland","region":"europe","verification":"kuochun","lat":53.3497645,"lng":-6.2602732},{"link":"http://www.theindependent.sg/taiwans-same-sex-marriage-ruling-stirs-discussion-in-china/","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"The Independent","full_quote":"same-sex marriage would be legal in the country.","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"Singapore","region":"asia","verification":"kuochun","lat":1.2904753,"lng":103.8520359},{"link":"http://www.thejakartapost.com/life/2017/05/25/taiwans-gay-marriage-ruling-raises-hopes-across-asia.html","contributor":"kuochun","publish_date":"2017-05-26","publish_time":"","media":"The Jakarta Post","full_quote":"paving the way for the island to become the first place in Asia to legalise gay marriage.","what":"island, place","what_in_english":"","media_hq_city":"Jakarta","media_hq_country":"Indonesia","region":"pacific","verification":"kuochun","lat":-6.1753942,"lng":106.827183},{"link":"https://www.voanews.com/a/asia-unlikely-to-follow-taiwan-on-same-sex-marriage/3872134.html","contributor":"kuochun","publish_date":"2017-05-26","publish_time":"","media":"VOA","full_quote":"making the island the first place in Asia to recognize gay unions.","what":"island, place","what_in_english":"","media_hq_city":"Washington D.C.","media_hq_country":"US","region":"nam","verification":"kuochun","lat":38.8949549,"lng":-77.0366456},{"link":"https://www.bloomberg.com/politics/articles/2017-05-25/taiwan-gay-marriage-ruling-widens-political-divide-with-china","contributor":"kuochun","publish_date":"2017-05-26","publish_time":"","media":"Bloomberg","full_quote":"aving the way for the island to become the first place in Asia to legalize gay marriage.","what":"island, place","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.news18.com/news/world/taiwan-becomes-first-nation-in-asia-to-legalize-gay-marriage-1411361.html","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"News18","full_quote":"Taiwan Becomes First Nation in Asia to Legalize Gay Marriage","what":"nation, country","what_in_english":"","media_hq_city":"New Delhi","media_hq_country":"India","region":"asia","verification":"kuochun","lat":28.6138967,"lng":77.2159562},{"link":"http://www.therakyatpost.com/life/2017/05/24/taiwan-court-says-okay-to-same-sex-marriage/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Rakyat Post","full_quote":"-","what":"-","what_in_english":"","media_hq_city":"Kuala Lumpur","media_hq_country":"Malaysia","region":"asia","verification":"kuochun","lat":3.1570976,"lng":101.7009528},{"link":"http://abcnews.go.com/International/wireStory/taiwan-court-rules-favor-sex-marriage-1st-place-47602498","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"ABC News","full_quote":"","what":"place","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"404","lat":40.7305991,"lng":-73.9865812},{"link":"https://www.theguardian.com/world/2017/may/24/taiwans-top-court-rules-in-favour-of-same-sex-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Guardian","full_quote":"Landmark ruling will mean country is first in Asia to allow gay couples to marry and cements reputation as beacon of liberalism","what":"country","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"http://www.washingtontimes.com/news/2017/may/24/taiwan-constitutional-court-invalidates-countrys-b/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Washington Times","full_quote":"Taiwan’s Constitutional Court invalidates country’s ban on same-sex marriage","what":"country","what_in_english":"","media_hq_city":"Washington D.C.","media_hq_country":"US","region":"nam","verification":"kuochun","lat":38.8949549,"lng":-77.0366456},{"link":"https://www.ft.com/content/06a8fb16-406b-11e7-9d56-25f963e998b2?mhq5j=e3","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Financial Times","full_quote":"Taiwan is set to be the first place in Asia to allow gay marriage","what":"place","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"bad link","lat":51.5073219,"lng":-0.1276474},{"link":"http://www.sueddeutsche.de/politik/taiwan-premiere-in-asien-1.3520762","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"Süddeutsche Zeitung","full_quote":"Wenn das Parlament am Ende tatsächlich die Homo-Ehe legalisiert, dann wäre Taiwan das einzige Land in Asien mit einer solchen Regelung.","what":"Land","what_in_english":"country","media_hq_city":"Munich","media_hq_country":"Germany","region":"europe","verification":"kuochun","lat":48.1371079,"lng":11.5753822},{"link":"http://www.zeit.de/politik/ausland/2017-05/taiwan-homo-ehe-gericht-gleichberechtigung","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Die Zeit","full_quote":"Als erstes asiatisches Land erlaubt Taiwan die Ehe gleichgeschlechtlicher Paare.","what":"Land","what_in_english":"country","media_hq_city":"Hamburg","media_hq_country":"Germany","region":"europe","verification":"kuochun","lat":53.550341,"lng":10.000654},{"link":"http://www.spiegel.de/panorama/gesellschaft/taiwan-oberstes-gericht-spricht-sich-fuer-homo-ehe-aus-a-1149200.html","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Der Spiegel","full_quote":"Es wäre das erste asiatische Land, das die Ehe für alle zulässt","what":"Land","what_in_english":"country","media_hq_city":"HafenCity, Hamburg","media_hq_country":"Germany","region":"europe","verification":"kuochun","lat":53.5429127,"lng":9.9958346},{"link":"http://www.leparisien.fr/flash-actualite-monde/taiwan-decision-historique-de-la-justice-sur-le-mariage-gay-24-05-2017-6978906.php","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Le Parisien","full_quote":"","what":"territoire","what_in_english":"territory","media_hq_city":"Paris","media_hq_country":"France","region":"europe","verification":"","lat":48.8566101,"lng":2.3514992},{"link":"http://www.lemonde.fr/asie-pacifique/article/2017/05/24/taiwan-pourrait-reconnaitre-le-mariage-gay_5132851_3216.html","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Le Monde","full_quote":"La décision rendue par le Conseil constitutionnel mercredi fera de l’île le premier pays d’Asie à autoriser une union entre personnes de même sexe.","what":"pays","what_in_english":"country","media_hq_city":"Paris","media_hq_country":"France","region":"europe","verification":"kuochun","lat":48.8566101,"lng":2.3514992},{"link":"http://www.lefigaro.fr/international/2017/05/24/01003-20170524ARTFIG00111-taiwan-la-justice-rend-une-decision-historique-en-faveur-du-mariage-gay.php","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Le Figaro","full_quote":"","what":"territoire","what_in_english":"territory","media_hq_city":"Paris","media_hq_country":"France","region":"europe","verification":"","lat":48.8566101,"lng":2.3514992},{"link":"http://www.cbc.ca/news/canada/british-columbia/taiwanese-canadians-celebrate-landmark-same-sex-marriage-ruling-1.4131083","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"CBC","full_quote":"Taiwanese-Canadians are celebrating a landmark ruling from the island nation's constitutional court in favour of same-sex marriage.","what":"nation","what_in_english":"","media_hq_city":"Toronto, Ontario","media_hq_country":"Canada","region":"nam","verification":"kuochun","lat":43.653963,"lng":-79.387207},{"link":"http://tempsreel.nouvelobs.com/societe/20170524.AFP3908/taiwan-decision-historique-de-la-justice-sur-le-mariage-gay.html","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"L’Obs","full_quote":"","what":"territoire","what_in_english":"territory","media_hq_city":"Paris","media_hq_country":"France","region":"europe","verification":"","lat":48.8566101,"lng":2.3514992},{"link":"http://www.lexpress.fr/actualite/monde/asie/taiwan-ouvre-la-voie-a-la-legalisation-du-mariage-homosexuel_1911259.html","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"L’Express","full_quote":"","what":"territoire","what_in_english":"territory","media_hq_city":"Paris","media_hq_country":"France","region":"europe","verification":"","lat":48.8566101,"lng":2.3514992},{"link":"http://www.la-croix.com/Monde/Asie-et-Oceanie/Taiwan-legaliser-mariage-homosexuel-2017-05-24-1200849798","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"La Croix","full_quote":"Pourquoi Taïwan devient le premier pays d’Asie à légaliser le mariage gay ?","what":"pays","what_in_english":"country","media_hq_city":"Paris","media_hq_country":"France","region":"europe","verification":"kuochun","lat":48.8566101,"lng":2.3514992},{"link":"http://www.liberation.fr/direct/element/taiwan-decision-du-conseil-constitutionnel-attendue-mercredi_64347/","contributor":"chihao","publish_date":"2017-05-22","publish_time":"","media":"Libération","full_quote":"","what":"endroit","what_in_english":"place","media_hq_city":"Paris","media_hq_country":"France","region":"europe","verification":"before_748","lat":48.8566101,"lng":2.3514992},{"link":"http://www.liberation.fr/planete/2017/05/25/mariage-pour-tous-taiwan-ouvre-la-voie-en-asie_1571696","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"Libération","full_quote":"Une première dans les pays asiatiques qui pourrait faire des émules.","what":"pays","what_in_english":"country","media_hq_city":"Paris","media_hq_country":"France","region":"europe","verification":"kuochun","lat":48.8566101,"lng":2.3514992},{"link":"http://www3.nhk.or.jp/news/html/20170525/k10010994101000.html","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"NHK","full_quote":"","what":"-","what_in_english":"","media_hq_city":"Shibuya, Tokyo","media_hq_country":"Japan","region":"asia","verification":"404","lat":35.664752,"lng":139.698096},{"link":"https://wspaper.org/article/18717","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"노동자연대","full_quote":"이로써 대만은 아시아에서 처음으로 동성 결혼을 합법화한 나라가 됐다.","what":"나라","what_in_english":"country","media_hq_city":"Seoul","media_hq_country":"Korea","region":"asia","verification":"kuochun","lat":37.5666791,"lng":126.9782914},{"link":"http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002328493","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"OhmyNews","full_quote":"이로써 대만은 아시아 최초로 동성혼이 가능한 국가로 이름을 올렸다.","what":"나라","what_in_english":"country","media_hq_city":"Seoul","media_hq_country":"Korea","region":"asia","verification":"kuochun","lat":37.5666791,"lng":126.9782914},{"link":"https://www.hk01.com/電影/93589/台灣成功爭取同性婚姻非偶然-香港影視灌輸比台灣落後20年","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"香港01","full_quote":"即將成為首個把同志婚姻合法化的國家","what":"國家","what_in_english":"country","media_hq_city":"","media_hq_country":"Hong Kong","region":"asia","verification":"kuochun","lat":22.2793278,"lng":114.1628131},{"link":"https://www.hk01.com/熱話/93347/台釋憲保障同性婚姻-港同志往台結婚會否獲香港承認-","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"香港01","full_quote":"意味台灣成為亞洲第一個同性婚姻合法化的地區。","what":"地區","what_in_english":"territory","media_hq_city":"","media_hq_country":"Hong Kong","region":"asia","verification":"kuochun","lat":22.2793278,"lng":114.1628131},{"link":"https://theinitium.com/roundtable/20170524-roundtable-tw-same-sex-marriage/","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"端","full_quote":"這意味着台灣很可能成為亞洲首個同婚合法化國家。","what":"國家","what_in_english":"country","media_hq_city":"","media_hq_country":"Hong Kong","region":"asia","verification":"kuochun","lat":22.2793278,"lng":114.1628131},{"link":"http://www.ozy.com/presidential-daily-brief/pdb-78690/its-a-yes-78712","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"OZY","full_quote":"That paves the way for Taiwan to become the first Asian government to legalize gay unions","what":"government","what_in_english":"","media_hq_city":"Mountain View, CA","media_hq_country":"US","region":"nam","verification":"kuochun","lat":37.3893889,"lng":-122.0832101},{"link":"http://www.dr.dk/nyheder/udland/taiwan-bliver-foerste-land-i-asien-til-legalisere-homoaegteskaber","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"DR","full_quote":"Taiwan bliver første land i Asien til at legalisere homoægteskaber","what":"land","what_in_english":"country","media_hq_city":"Copenhagen","media_hq_country":"Denmark","region":"europe","verification":"kuochun","lat":55.6867243,"lng":12.5700724},{"link":"https://www.hbl.fi/artikel/taiwan-kan-bli-forst-i-asien-att-godkanna-samkonat-aktenskap/","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"HBL","full_quote":"Tårar av lycka i Taipei då Asien fick sitt första homovänliga land","what":"land","what_in_english":"country","media_hq_city":"Helsinki","media_hq_country":"Finland","region":"europe","verification":"kuochun","lat":60.1674086,"lng":24.9425683},{"link":"http://www.volkskrant.nl/buitenland/taiwan-zet-als-eerste-land-in-azie-deur-open-voor-homohuwelijk~a4496886/","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"de Volkskrant","full_quote":"Taiwan zet als eerste land in Azië deur open voor homohuwelijk","what":"land","what_in_english":"country","media_hq_city":"Amsterdam","media_hq_country":"The Netherlands","region":"europe","verification":"kuochun","lat":52.3745403,"lng":4.89797550561798},{"link":"https://www.nrc.nl/nieuws/2017/05/24/taiwan-opent-weg-naar-homohuwelijk-a1560224","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"NRC","full_quote":"Een overzicht van landen waar homohuwelijken en geregistreerde partnerschappen op nationaal niveau bij wet zijn geregeld.","what":"landen","what_in_english":"country","media_hq_city":"Amsterdam","media_hq_country":"The Netherlands","region":"europe","verification":"kuochun","lat":52.3745403,"lng":4.89797550561798},{"link":"http://www.out.com/news-opinion/2017/5/24/taiwan-becomes-first-asian-country-legalize-same-sex-marriage","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Out Magazine","full_quote":"Taiwan Becomes First Asian Country to Legalize Same-Sex Marriage","what":"country","what_in_english":"","media_hq_city":"LA, CA","media_hq_country":"US","region":"nam","verification":"kuochun","lat":36.7014631,"lng":-118.7559974},{"link":"http://www.pinknews.co.uk/2017/05/24/taiwan-becomes-first-country-in-asia-to-rule-in-favour-of-same-sex-marriage/","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"PinkNews","full_quote":"Taiwan becomes first country in Asia to rule in favour of same-sex marriage","what":"country","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"https://www.buzzfeed.com/lanesainty/taiwanese-court-delivers-landmark-marriage-ruling?utm_term=.rnAejRegy#.bvQYqbYoj","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Buzzfeed","full_quote":"Taiwan Is Set To Become The First Asian Country To Legalize Same-Sex Marriage","what":"country","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"https://www.buzzfeed.com/lanesainty/taiwan-ruling-a-good-start-for-asia-says-lead-lawyer?utm_term=.ismxX1xn6#.pdgKJ5KMZ","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"Buzzfeed","full_quote":"Taiwan will likely become the first place in Asia to legalise same-sex marriage.","what":"place","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.dw.com/en/taiwan-court-first-in-asia-to-approve-gay-marriage/a-38967003","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Deutsche Welle","full_quote":"Taiwan became the first country in Asia to legalize same-sex marriage in a landmark court ruling on Wednesday.","what":"country","what_in_english":"","media_hq_city":"Bonn","media_hq_country":"Germany","region":"europe","verification":"kuochun","lat":50.735851,"lng":7.10066},{"link":"https://www.youtube.com/watch?v=SfDbt4qgHkU","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Reuters","full_quote":"Court ruling paves the way for Taiwan to become the first place in Asia to legalize same-sex marriage. David Doyle reports.","what":"place","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"https://www.youtube.com/watch?v=3vmtZduHcdk","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Reuters","full_quote":"Taiwan becomes the first Asian country to allow same sex-marriage following a ruling by the constitutional court on Wednesday.","what":"country","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"http://www.aftenposten.no/verden/Domstol-i-Taiwan-tillater-likekjonnede-ekteskap-621808b.html","contributor":"nat","publish_date":"2017-05-24","publish_time":"","media":"Aftenposten","full_quote":"n historisk avgjørelse som betyr at øya blir det første stedet i Asia som tillater dette.","what":"øya, stedet","what_in_english":"place, island","media_hq_city":"","media_hq_country":"Norway","region":"europe","verification":"kuochun","lat":64.574131,"lng":11.5270102892405},{"link":"http://www.timeslive.co.za/world/2017/05/25/Taiwans-gay-marriage-ruling-raises-hopes-across-Asia","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"Times LIVE","full_quote":"which paves the way for the island to become the first place in Asia to allow same-sex couples to tie the knot.","what":"island, place","what_in_english":"","media_hq_city":"Johannesburg","media_hq_country":"South Africa","region":"africa","verification":"kuochun","lat":-26.205,"lng":28.049722},{"link":"http://www.iol.co.za/news/world/taiwan-becomes-1st-in-asia-to-recognise-same-sex-marriage-9341995","contributor":"chihao","publish_date":"2017-05-25","publish_time":"","media":"IOL","full_quote":"punctuating a years-long campaign by advocates for gay rights in one of the continent's most liberal democracies.","what":"democracies","what_in_english":"","media_hq_city":"","media_hq_country":"South Africa","region":"africa","verification":"kuochun","lat":-28.8166236,"lng":24.991639},{"link":"http://brasil.elpais.com/brasil/2017/05/24/internacional/1495614393_031714.html","contributor":"chihao","publish_date":"2017-05-26","publish_time":"","media":"EL PAÍS Brasil","full_quote":"Trata-se do primeiro país da Ásia onde pessoas do mesmo sexo poderão se casar","what":"país","what_in_english":"country","media_hq_city":"Madrid","media_hq_country":"Spain","region":"europe","verification":"kuochun","lat":40.4167047,"lng":-3.7035825},{"link":"http://internacional.elpais.com/internacional/2017/05/24/actualidad/1495614393_031714.html","contributor":"chihao","publish_date":"2017-05-24","publish_time":"","media":"Internacional en EL PAÍS","full_quote":"Será el primer país de Asia donde las personas del mismo sexo pueden contraer matrimonio","what":"país","what_in_english":"country","media_hq_city":"Madrid","media_hq_country":"Spain","region":"europe","verification":"kuochun","lat":40.4167047,"lng":-3.7035825},{"link":"https://www.nytimes.com/2017/05/24/world/asia/taiwan-same-sex-marriage-court.html?_r=0","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The New York Times","full_quote":"Court Ruling Could Make Taiwan First Place in Asia to Legalize Gay Marriage","what":"place","what_in_english":"place","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"https://apnews.com/ed44ad47c552430ab4a97d2fb9bbd129","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Associated Press","full_quote":"one of the continent’s most liberal democracies.","what":"democracies","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.upi.com/Top_News/World-News/2017/05/24/Taiwan-court-rules-same-sex-marriage-ban-is-unconstitutional/5731495627207/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"UPI","full_quote":"taking Taiwan one step closer to becoming Asia's first country to recognize same-sex marriage.","what":"country","what_in_english":"","media_hq_city":"Washington D.C.","media_hq_country":"US","region":"nam","verification":"kuochun","lat":38.8949549,"lng":-77.0366456},{"link":"https://news.vice.com/story/taiwan-to-become-first-asian-nation-to-legalize-gay-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"vice","full_quote":"Taiwan to become first Asian nation to legalize gay marriage","what":"nation","what_in_english":"","media_hq_city":"Brooklyn, NY","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.64530975,"lng":-73.9550230275334},{"link":"http://www.economist.com/news/world-week/21722691-politics-week","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"The Economist","full_quote":"-","what":"-","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"https://www.thetimes.co.uk/article/taiwan-smashes-asian-taboo-on-gay-marriage-8jjkz67hp","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"The Times","full_quote":"The island off the coast of China is to become the first state in Asia to legalise gay partnerships.","what":"state","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"http://www.thenorthernecho.co.uk/news/15305754.Taiwan_court_rules_in_favour_of_same_sex_marriage/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Northern Echo","full_quote":"Taiwan’s Constitutional Court has ruled in favour of same-sex marriage, making the island the first place in Asia to recognise gay unions.","what":"island, place","what_in_english":"","media_hq_city":"Darlington","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":54.5352721,"lng":-1.55332710062043},{"link":"http://www.independent.co.uk/news/world/asia/taiwan-same-sex-marriage-asia-photo-essay-lgbt-gay-rights-a7753081.html","contributor":"kuochun","publish_date":"2017-05-26","publish_time":"","media":"Independent","full_quote":"The country’s constitutional court ruled in favour of same-sex marriage on Wednesday","what":"country","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"https://www.indy100.com/article/same-sex-marriage-lgbt-gay-equality-where-can-i-marry-equal-rights-illegal-7768516","contributor":"kuochun","publish_date":"2017-06-02","publish_time":"","media":"Independent","full_quote":"Taiwan's Constitutional Court issued a ruling last week to legalise same-sex marriage, making it the first nation in Asia to do so.","what":"nation","what_in_english":"","media_hq_city":"London","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":51.5073219,"lng":-0.1276474},{"link":"https://www.youtube.com/watch?v=sf_9DRjA4-0","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"TIME","full_quote":"punctuating a years long campaign by advocates for gay rights in one of the continent's most liberal democracies.","what":"democracies","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"https://www.youtube.com/watch?v=h52E5ZxrP5Q","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"DW","full_quote":"Taiwan looks set to become the first Asian country to legalize same-sex marriage.","what":"country","what_in_english":"","media_hq_city":"Bonn","media_hq_country":"Germany","region":"europe","verification":"kuochun","lat":50.735851,"lng":7.10066},{"link":"http://abcnews.go.com/US/wireStory/22-nations-sex-marriage-47761110","contributor":"kuochun","publish_date":"2017-06-01","publish_time":"","media":"ABC NEWS","full_quote":"Taiwan's Constitutional Court issued a ruling that will make the nation the first in Asia to legalize same-sex marriage.","what":"nation","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://abcnews.go.com/US/wireStory/us-abroad-worrisome-time-lgbt-activists-47761109","contributor":"kuochun","publish_date":"2017-06-01","publish_time":"","media":"ABC NEWS","full_quote":"Taiwan is now on track to become the first territory in Asia to legalize same-sex marriage, due to a May 24 court ruling.","what":"place","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.stuff.co.nz/world/asia/92967846/taiwans-high-court-rules-in-favour-of-samesex-marriage","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"Stuff","full_quote":"Taiwan just got a lot closer to becoming the first place in Asia to legalise same-sex marriage","what":"place","what_in_english":"","media_hq_city":"","media_hq_country":"New Zealand","region":"pacific","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.theaustralian.com.au/video/id-txYXBiYjE6buc4xmWFyhBajTZQcEzZww/TAIWAN-----Taiwan-s-Ban-on-Same-Sex-Marriage-Declared-Unconstitutional---May-24","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Australian","full_quote":"paving the way for Taiwan to become the first Asian country to allow same-sex marriage.","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"Australia","region":"pacific","verification":"kuochun","lat":-24.7761086,"lng":134.755},{"link":"http://www.theage.com.au/comment/samesex-marriage-politics-gets-deeply-personal-20170530-gwgbz6.html","contributor":"kuochun","publish_date":"2017-06-01","publish_time":"","media":"The Age","full_quote":"Taiwan set to become the first Asian country to allow same sex-marriage following a ruling by the country's constitutional court.","what":"country","what_in_english":"","media_hq_city":"Melbourne","media_hq_country":"Australia","region":"pacific","verification":"kuochun","lat":-37.8142176,"lng":144.9631608},{"link":"http://www.theage.com.au/world/taiwan-set-to-become-first-asian-country-to-legalise-same-sex-marriage-20170524-gwcgnu.html","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"The Age","full_quote":"Taiwan to become first Asian country to legalise same-sex marriage","what":"country","what_in_english":"","media_hq_city":"Melbourne","media_hq_country":"Australia","region":"pacific","verification":"kuochun","lat":-37.8142176,"lng":144.9631608},{"link":"https://www.romper.com/p/taiwan-rules-in-favor-of-same-sex-marriage-its-a-historic-move-60174","contributor":"kuochun","publish_date":"","publish_time":"","media":"Romper","full_quote":" will likely lead to it becoming the first country in Asia to legalize same-sex unions.","what":"country","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://shethepeople.tv/taiwan-becomes-first-country-in-asia-to-accept-gay-marriage/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"She the People","full_quote":"Taiwan Becomes First Country In Asia To Accept Gay Marriage","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"India","region":"asia","verification":"kuochun","lat":22.3511148,"lng":78.6677428},{"link":"https://www.themarysue.com/taiwan-legalizes-lgbtqia-marriage/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"the Mary Sue","full_quote":"Taiwan Becomes the First Country in Asia to Legalize Same-Sex Marriage","what":"country","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.thefader.com/2017/05/24/taiwan-court-ruling-legalize-same-sex-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"the Fader","full_quote":"First Country In Asia To Legalize Same-Sex Marriage","what":"country","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"https://www.pri.org/stories/2017-05-24/court-ruling-makes-taiwan-first-asian-nation-recognize-gay-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"PRI","full_quote":"Court ruling makes Taiwan the first Asian nation to recognize gay marriage","what":"nation","what_in_english":"","media_hq_city":"Minneapolis","media_hq_country":"US","region":"nam","verification":"kuochun","lat":44.9772995,"lng":-93.2654692},{"link":"http://foreignpolicy.com/2017/05/24/taiwans-high-court-rules-in-favor-of-same-sex-marriage/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Foreign Policy","full_quote":"Taiwan just got a lot closer to becoming the first place in Asia to legalize same-sex marriage","what":"place","what_in_english":"","media_hq_city":"Washington D.C.","media_hq_country":"US","region":"nam","verification":"kuochun","lat":38.8949549,"lng":-77.0366456},{"link":"http://theweek.com/speedreads/701036/taiwan-becomes-first-asian-nation-recognize-samesex-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Week","full_quote":"Taiwan becomes the first Asian nation to recognize same-sex marriage","what":"nation","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"https://www.hongkongfp.com/2017/05/24/breaking-taiwan-become-first-asian-country-recognise-gay-marriage-following-court-ruling/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Hong Kong Free Press","full_quote":"Taiwan to become first Asian country to recognise gay marriage following court ruling","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"Hong Kong","region":"asia","verification":"kuochun","lat":22.2793278,"lng":114.1628131},{"link":"https://asiancorrespondent.com/2017/05/victory-lgbt-taiwan-top-court-rules-favour-gay-marriage/#vUggRqoL4OTQuroR.97","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Asian Correspondent","full_quote":"Today’s ruling will provide these advocates the backing they need to fight backlash from the country’s conservative lawmakers","what":"country","what_in_english":"","media_hq_city":"Kuala Lumpur","media_hq_country":"Malaysia","region":"asia","verification":"kuochun","lat":3.1570976,"lng":101.7009528},{"link":"http://www.mtv.co.uk/lgbtq/news/taiwan-will-be-the-first-asian-country-to-legalise-samesex-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"MTV","full_quote":"taiwan could be the first asian country to legalise same-sex marriage","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":54.7023545,"lng":-3.2765753},{"link":"http://www.peoplesworld.org/article/first-in-asia-victory-for-marriage-equality-in-taiwan/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"People's World","full_quote":"The country’s highest court made history today ","what":"country","what_in_english":"","media_hq_city":"chicago","media_hq_country":"US","region":"nam","verification":"kuochun","lat":41.8755546,"lng":-87.6244212},{"link":"http://timesofindia.indiatimes.com/world/rest-of-world/taiwan-becomes-first-in-asia-to-rule-in-favour-of-same-sex-marriage/articleshow/58826968.cms","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Times of India","full_quote":"Taiwan just became the first Asian country to make gay marriages legal. ","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"India","region":"asia","verification":"kuochun","lat":22.3511148,"lng":78.6677428},{"link":"http://www.unilad.co.uk/news/taiwan-becomes-first-place-in-asia-to-legalise-gay-marriage/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"UniLad","full_quote":"Taiwan makes history today, as the first Asian country to legalise gay marriage.","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"UK","region":"europe","verification":"kuochun","lat":54.7023545,"lng":-3.2765753},{"link":"http://www.gospelherald.com/articles/70617/20170524/taiwan-allow-same-sex-marriage.htm","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"The Gospel Herald","full_quote":"making Taiwan the first country in Asia to uphold gay marriage.","what":"country","what_in_english":"","media_hq_city":"San Francisco","media_hq_country":"US","region":"nam","verification":"kuochun","lat":37.7792808,"lng":-122.4192363},{"link":"http://news.xinhuanet.com/english/2017-05/25/c_136312148.htm","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"Xin Hua","full_quote":"-","what":"-","what_in_english":"","media_hq_city":"Beijing","media_hq_country":"China","region":"asia","verification":"kuochun","lat":39.9059631,"lng":116.391248},{"link":"http://www.outlookindia.com/website/story/gay-rights/299062","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Outlook India","full_quote":"Taiwan Becomes 23rd Country In The World to Legalise Same-Sex Marriage","what":"country","what_in_english":"","media_hq_city":"New Delhi","media_hq_country":"India","region":"asia","verification":"kuochun","lat":28.6138967,"lng":77.2159562},{"link":"http://www.jdjournal.com/2017/05/24/taiwan-may-become-first-asian-country-to-legalize-same-sex-marriage/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"JD Journal","full_quote":"BREAKING NEWS Taiwan May Become First Asian Country to Legalize Same-Sex Marriage","what":"country","what_in_english":"","media_hq_city":"California","media_hq_country":"US","region":"nam","verification":"kuochun","lat":36.7014631,"lng":-118.7559974},{"link":"http://www.rfa.org/english/news/china/legalizes-05242017151138.html","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Radio Free Asia","full_quote":"the island's highest court made a constitutional ruling in favor of same-sex marriages","what":"island","what_in_english":"","media_hq_city":"Washington D.C.","media_hq_country":"US","region":"nam","verification":"kuochun","lat":38.8949549,"lng":-77.0366456},{"link":"http://www.oneindia.com/international/taiwan-first-place-in-asia-to-legalize-gay-marriage-2443623.html","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"One India","full_quote":"The ruling paves the way for the island nation to become the first place in Asia to gay marriage.","what":"nation","what_in_english":"","media_hq_city":"","media_hq_country":"India","region":"asia","verification":"kuochun","lat":22.3511148,"lng":78.6677428},{"link":"http://www.ibtimes.com/homosexuality-punishable-death-these-countries-even-taiwan-rules-legalize-gay-2543119","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"International Business Times","full_quote":"Taiwan could become the first country in Asia legalize gay marriage following a court ruling Wednesday ","what":"country","what_in_english":"","media_hq_city":"New York City","media_hq_country":"US","region":"nam","verification":"kuochun","lat":40.7305991,"lng":-73.9865812},{"link":"http://www.tv3.ie/xpose/article/news/240841/Taiwan-court-rules-in-FAVOUR-of-samesex-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"X’pose","full_quote":"paving the way for it to become the FIRST Asian country to grant same-sex unions.","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"Ireland","region":"europe","verification":"kuochun","lat":52.865196,"lng":-7.9794599},{"link":"http://www.malaysiasun.com/news/253324522/taiwan-charts-history-as-it-becomes-first-asian-nation-to-legalize-same-sex-unions","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"Malaysia Sun","full_quote":"Taiwan charts history as it becomes first Asian nation to legalize same-sex unions","what":"nation","what_in_english":"","media_hq_city":"","media_hq_country":"Malaysia","region":"asia","verification":"kuochun","lat":3.0452302,"lng":101.5919778},{"link":"http://www.indiasamvad.co.in/world/same-sex-relations-two-asian-nations-two-different-pictures-22019","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"India Samvad","full_quote":"Same-sex relationships: Two Asian nations, two different pictures  ","what":"nation","what_in_english":"","media_hq_city":"","media_hq_country":"India","region":"asia","verification":"kuochun","lat":22.3511148,"lng":78.6677428},{"link":"https://oglobo.globo.com/mundo/justica-de-taiwan-se-pronuncia-favor-do-casamento-gay-21386418","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"O GLOBO","full_quote":"a ilha pode se tornar o primeiro território asiático a legalizar as uniões entre pessoas do mesmo sexo","what":"ilha","what_in_english":"island","media_hq_city":"Rio de Janeiro","media_hq_country":"Brazil","region":"sam","verification":"kuochun","lat":-22.9110137,"lng":-43.2093727},{"link":"https://oglobo.globo.com/sociedade/justica-de-taiwan-considera-inconstitucional-proibicao-de-casamento-gay-21385098","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"O GLOBO","full_quote":"Decisão abre portas para ilha se tornar o primeiro território asiático a permitir uniões entre pessoas do mesmo sexo","what":"ilha","what_in_english":"island","media_hq_city":"Rio de Janeiro","media_hq_country":"Brazil","region":"sam","verification":"kuochun","lat":-22.9110137,"lng":-43.2093727},{"link":"https://oglobo.globo.com/sociedade/militar-sul-coreano-condenado-por-ser-gay-21391171","contributor":"kuochun","publish_date":"2017-05-26","publish_time":"","media":"O GLOBO","full_quote":"o que abre caminho para que a união homossexual seja legalizada pela primeira vez num país asiático","what":"país","what_in_english":"country","media_hq_city":"Rio de Janeiro","media_hq_country":"Brazil","region":"sam","verification":"kuochun","lat":-22.9110137,"lng":-43.2093727},{"link":"http://emais.estadao.com.br/noticias/comportamento,taiwan-pode-ser-o-primeiro-pais-da-asia-a-legalizar-o-casamento-homossexual,70001811345","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"O Estado de S. Paulo","full_quote":"Taiwan pode ser o primeiro país da Ásia a legalizar o casamento homossexual","what":"país","what_in_english":"country","media_hq_city":"São Paulo","media_hq_country":"Brazil","region":"sam","verification":"kuochun","lat":-23.5506507,"lng":-46.6333824},{"link":"http://hd.clarin.com/post/161055097499/taiw%C3%A1n-el-primer-pa%C3%ADs-asi%C3%A1tico-que-aprueba-el","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Clarín","full_quote":"Taiwán, el primer país asiático que aprueba el matrimonio gay","what":"país","what_in_english":"country","media_hq_city":"Buenos Aires","media_hq_country":"Argentina","region":"sam","verification":"kuochun","lat":-34.6075616,"lng":-58.437076},{"link":"http://www.asahi.com/articles/DA3S12954565.html","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"朝日新聞","full_quote":"政府側は同日、早急に対応する意向を表明した。","what":"政府","what_in_english":"government","media_hq_city":"Tokyo","media_hq_country":"Japan","region":"asia","verification":"kuochun","lat":34.2255804,"lng":139.294774527387},{"link":"https://mainichi.jp/articles/20170525/reu/00m/030/002000c","contributor":"kuochun","publish_date":"2017-05-25","publish_time":"","media":"每日新聞","full_quote":"-","what":"-","what_in_english":"","media_hq_city":"Tokyo","media_hq_country":"Japan","region":"asia","verification":"kuochun","lat":34.2255804,"lng":139.294774527387},{"link":"http://www.bild.de/lgbt/news/taiwan/erlaubt-die-gleichgeschlechtliche-ehe-51893180.bild.html","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Bild","full_quote":"ALS ERSTES ASIATISCHES LAND Taiwan erlaubt „Ehe für alle“","what":"land","what_in_english":"country","media_hq_city":"Berlin","media_hq_country":"Germany","region":"europe","verification":"kuochun","lat":52.5170365,"lng":13.3888599},{"link":"https://www.usatoday.com/videos/news/world/2017/05/24/taiwan-first-asian-country-legalize-same-sex-marriage/102101928/","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"USA Today","full_quote":"Taiwan: First Asian country to legalize same-sex marriage","what":"country","what_in_english":"","media_hq_city":"Virginia","media_hq_country":"US","region":"nam","verification":"kuochun","lat":37.1232245,"lng":-78.4927721},{"link":"http://ewn.co.za/2017/05/24/taiwan-becomes-first-asian-country-to-allow-same-sex-marriage","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"Eyewitness News","full_quote":"TAIWAN BECOMES FIRST ASIAN COUNTRY TO ALLOW SAME-SEX MARRIAGE","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"South Africa","region":"africa","verification":"kuochun","lat":-28.8166236,"lng":24.991639},{"link":"https://www.moroccoworldnews.com/2017/05/217710/taiwan-rules-in-favor-of-same-sex-marriage/","contributor":"kuochun","publish_date":"2017-05-26","publish_time":"","media":"Morocco World News","full_quote":"Taiwan will likely become the first country in Asia to legalize same-sex marriage.","what":"country","what_in_english":"","media_hq_city":"","media_hq_country":"Morocco","region":"africa","verification":"kuochun","lat":31.1728192,"lng":-7.3366043},{"link":"http://www.ann7.com/taiwan-top-court-rules-in-favour-of-gay-marriage/#","contributor":"kuochun","publish_date":"2017-05-24","publish_time":"","media":"ANN","full_quote":"a landmark ruling that paves the way for the island to become the first place in Asia to legalise same sex unions.","what":"island, place","what_in_english":"","media_hq_city":"","media_hq_country":"South Africa","region":"africa","verification":"kuochun","lat":-28.8166236,"lng":24.991639}]
 
 /***/ }),
-/* 288 */
+/* 292 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_get_iterator__ = __webpack_require__(65);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_get_iterator__ = __webpack_require__(64);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_get_iterator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_get_iterator__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_vue__ = __webpack_require__(26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_vue_router__ = __webpack_require__(904);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_vue_meta__ = __webpack_require__(903);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_vue_router__ = __webpack_require__(911);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_vue_meta__ = __webpack_require__(910);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_vue_meta___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_vue_meta__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_Hello__ = __webpack_require__(870);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_Hello__ = __webpack_require__(877);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_Hello___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__components_Hello__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_Series__ = __webpack_require__(874);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_Series__ = __webpack_require__(881);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_Series___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6__components_Series__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_Journey__ = __webpack_require__(871);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_Journey__ = __webpack_require__(878);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_Journey___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7__components_Journey__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_Swipe__ = __webpack_require__(876);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_Swipe__ = __webpack_require__(883);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_Swipe___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_8__components_Swipe__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_LongForm__ = __webpack_require__(872);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_LongForm__ = __webpack_require__(879);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_LongForm___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_9__components_LongForm__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_Draw__ = __webpack_require__(869);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_Draw__ = __webpack_require__(876);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_Draw___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_10__components_Draw__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_Map__ = __webpack_require__(873);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_Map__ = __webpack_require__(880);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_Map___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_11__components_Map__);
 
 
@@ -1306,7 +1371,7 @@ module.exports = [{"link":"http://edition.cnn.com/2017/05/24/asia/taiwan-same-se
 
 
 
-var menu = __webpack_require__(169).default;
+var menu = __webpack_require__(170).default;
 
 __WEBPACK_IMPORTED_MODULE_2_vue__["a" /* default */].use(__WEBPACK_IMPORTED_MODULE_3_vue_router__["a" /* default */]);
 __WEBPACK_IMPORTED_MODULE_2_vue__["a" /* default */].use(__WEBPACK_IMPORTED_MODULE_4_vue_meta___default.a, {
@@ -1398,17 +1463,17 @@ try {
 }));
 
 /***/ }),
-/* 289 */
+/* 293 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_vue__ = __webpack_require__(26);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_vuex__ = __webpack_require__(154);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__state__ = __webpack_require__(320);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__getters__ = __webpack_require__(318);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__actions__ = __webpack_require__(317);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__mutations__ = __webpack_require__(319);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_vuex_dist_logger__ = __webpack_require__(906);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__state__ = __webpack_require__(324);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__getters__ = __webpack_require__(322);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__actions__ = __webpack_require__(321);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__mutations__ = __webpack_require__(323);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_vuex_dist_logger__ = __webpack_require__(913);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_vuex_dist_logger___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_vuex_dist_logger__);
 
 
@@ -1433,18 +1498,18 @@ var debug = "production" !== 'production';
 }));
 
 /***/ }),
-/* 290 */
+/* 294 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
 /* styles */
-__webpack_require__(725)
+__webpack_require__(729)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(329),
+  __webpack_require__(333),
   /* template */
-  __webpack_require__(901),
+  __webpack_require__(908),
   /* scopeId */
   null,
   /* cssModules */
@@ -1455,10 +1520,6 @@ module.exports = Component.exports
 
 
 /***/ }),
-/* 291 */,
-/* 292 */,
-/* 293 */,
-/* 294 */,
 /* 295 */,
 /* 296 */,
 /* 297 */,
@@ -1477,7 +1538,11 @@ module.exports = Component.exports
 /* 310 */,
 /* 311 */,
 /* 312 */,
-/* 313 */
+/* 313 */,
+/* 314 */,
+/* 315 */,
+/* 316 */,
+/* 317 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2842,7 +2907,7 @@ var defaultDarkTextColor = '#333';
 });
 
 /***/ }),
-/* 314 */
+/* 318 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -2870,11 +2935,11 @@ var defaultDarkTextColor = '#333';
 });
 
 /***/ }),
-/* 315 */
+/* 319 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_pangu__ = __webpack_require__(732);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_pangu__ = __webpack_require__(736);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_pangu___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_pangu__);
 
 
@@ -2911,23 +2976,23 @@ var defaultDarkTextColor = '#333';
 });
 
 /***/ }),
-/* 316 */
+/* 320 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_vue__ = __webpack_require__(26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__App__ = __webpack_require__(290);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__App__ = __webpack_require__(294);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__App___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__App__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__store__ = __webpack_require__(289);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__router__ = __webpack_require__(288);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__store__ = __webpack_require__(293);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__router__ = __webpack_require__(292);
 
 
 
 
 
 
-__WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].config.mode = "production";
+__WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].config.mode = "staging";
 __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].config.productionTip = false;
 
 new __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */]({
@@ -2939,14 +3004,14 @@ new __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */]({
 });
 
 /***/ }),
-/* 317 */
+/* 321 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_common_src_store_actions__ = __webpack_require__(309);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__mutation_types__ = __webpack_require__(170);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_common_src_store_actions__ = __webpack_require__(313);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__mutation_types__ = __webpack_require__(171);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_axios__ = __webpack_require__(33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_axios___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_axios__);
 
@@ -3009,13 +3074,13 @@ var localActions = {
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default()(__WEBPACK_IMPORTED_MODULE_1_common_src_store_actions__["a" /* default */], localActions));
 
 /***/ }),
-/* 318 */
+/* 322 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_common_src_store_getters__ = __webpack_require__(310);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_common_src_store_getters__ = __webpack_require__(314);
 
 
 
@@ -3024,16 +3089,16 @@ var localGetters = {};
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default()(__WEBPACK_IMPORTED_MODULE_1_common_src_store_getters__["a" /* default */], localGetters));
 
 /***/ }),
-/* 319 */
+/* 323 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_defineProperty__ = __webpack_require__(172);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_defineProperty__ = __webpack_require__(173);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_defineProperty___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_defineProperty__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_common_src_store_mutations__ = __webpack_require__(311);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__mutation_types__ = __webpack_require__(170);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_common_src_store_mutations__ = __webpack_require__(315);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__mutation_types__ = __webpack_require__(171);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_vue__ = __webpack_require__(26);
 
 
@@ -3059,13 +3124,13 @@ var localMutations = (_localMutations = {}, __WEBPACK_IMPORTED_MODULE_1_babel_ru
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default()(__WEBPACK_IMPORTED_MODULE_2_common_src_store_mutations__["a" /* default */], localMutations));
 
 /***/ }),
-/* 320 */
+/* 324 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_common_src_store_state__ = __webpack_require__(312);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_common_src_store_state__ = __webpack_require__(316);
 
 
 
@@ -3082,12 +3147,12 @@ var localState = {
 /* harmony default export */ __webpack_exports__["a"] = (__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default()(__WEBPACK_IMPORTED_MODULE_1_common_src_store_state__["a" /* default */], localState));
 
 /***/ }),
-/* 321 */
+/* 325 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__lib_dataStore__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__lib_dataStore__ = __webpack_require__(93);
 
 
 
@@ -3193,7 +3258,7 @@ var trees = [{
       };
     },
     getTreeAssetURL: function getTreeAssetURL(tree) {
-      return __webpack_require__(360)("./" + tree.type + '/' + tree.name + '.' + tree.filetype);
+      return __webpack_require__(364)("./" + tree.type + '/' + tree.name + '.' + tree.filetype);
     },
     getTreeClasses: function getTreeClasses(tree) {
       return [tree.type, tree.type + '-' + tree.name];
@@ -3218,7 +3283,7 @@ var trees = [{
 });
 
 /***/ }),
-/* 322 */
+/* 326 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3226,8 +3291,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_axios__ = __webpack_require__(33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_axios___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_axios__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__lib_util__ = __webpack_require__(44);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__lib_dataStore__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__interfaces_accordion__ = __webpack_require__(308);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__lib_dataStore__ = __webpack_require__(93);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__interfaces_accordion__ = __webpack_require__(312);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__interfaces_modal__ = __webpack_require__(43);
 
 
@@ -3237,7 +3302,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
 
 
-var nameGenerator = __webpack_require__(738);
+var nameGenerator = __webpack_require__(742);
 
 var DEFAULT = 0;
 var VERIF_EMAIL_SENT = 1;
@@ -3409,7 +3474,7 @@ var REQUIRE_EMAIL_VERIF = 3;
 });
 
 /***/ }),
-/* 323 */
+/* 327 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3454,7 +3519,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 324 */
+/* 328 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3507,7 +3572,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 325 */
+/* 329 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3573,7 +3638,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 326 */
+/* 330 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3590,7 +3655,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
       modal: {
         key: 'TermsOfSvc'
       },
-      tos: __webpack_require__(728)
+      tos: __webpack_require__(732)
     };
   },
 
@@ -3604,7 +3669,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 327 */
+/* 331 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3676,12 +3741,12 @@ __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].use(__WEBPACK_IMPORTED_MODU
 });
 
 /***/ }),
-/* 328 */
+/* 332 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__lib_dataStore__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__lib_dataStore__ = __webpack_require__(93);
 
 
 var supportPackages = {
@@ -3720,7 +3785,7 @@ var supportPackages = {
       return ['bg-' + this.channel + '-ninetyfive'];
     },
     imageURL: function imageURL() {
-      return __webpack_require__(361)("./" + this.image + '.png');
+      return __webpack_require__(365)("./" + this.image + '.png');
     }
   },
   methods: {
@@ -3731,7 +3796,7 @@ var supportPackages = {
 });
 
 /***/ }),
-/* 329 */
+/* 333 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -3740,24 +3805,23 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_vuex__ = __webpack_require__(154);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_axios__ = __webpack_require__(33);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_axios___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_axios__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_common_src_lib_dataStore__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_common_src_components_Navigation_Identity__ = __webpack_require__(867);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_common_src_components_Navigation_Identity___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_common_src_components_Navigation_Identity__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_common_src_components_Modal_Auth__ = __webpack_require__(862);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_common_src_components_Modal_Auth___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_common_src_components_Modal_Auth__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_common_src_components_Modal_LostPwd__ = __webpack_require__(864);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_common_src_components_Modal_LostPwd___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_common_src_components_Modal_LostPwd__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_common_src_components_Modal_ResetPwd__ = __webpack_require__(865);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_common_src_components_Modal_ResetPwd___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7_common_src_components_Modal_ResetPwd__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_common_src_components_Modal_Identity__ = __webpack_require__(863);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_common_src_components_Modal_Identity___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_8_common_src_components_Modal_Identity__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_common_src_components_Modal_TermsOfSvc__ = __webpack_require__(866);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_common_src_components_Modal_TermsOfSvc___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_9_common_src_components_Modal_TermsOfSvc__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_common_src_components_Footer_Standard__ = __webpack_require__(861);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_common_src_components_Footer_Standard___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_10_common_src_components_Footer_Standard__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_common_src_components_SupportWatchout_Standard__ = __webpack_require__(868);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_common_src_components_SupportWatchout_Standard___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_11_common_src_components_SupportWatchout_Standard__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12_common_src_lib_util__ = __webpack_require__(44);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_common_src_components_Navigation_Identity__ = __webpack_require__(874);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_common_src_components_Navigation_Identity___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_common_src_components_Navigation_Identity__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_common_src_components_Modal_Auth__ = __webpack_require__(869);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_common_src_components_Modal_Auth___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_common_src_components_Modal_Auth__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_common_src_components_Modal_LostPwd__ = __webpack_require__(871);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_common_src_components_Modal_LostPwd___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5_common_src_components_Modal_LostPwd__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_common_src_components_Modal_ResetPwd__ = __webpack_require__(872);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_common_src_components_Modal_ResetPwd___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_common_src_components_Modal_ResetPwd__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_common_src_components_Modal_Identity__ = __webpack_require__(870);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7_common_src_components_Modal_Identity___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_7_common_src_components_Modal_Identity__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_common_src_components_Modal_TermsOfSvc__ = __webpack_require__(873);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_common_src_components_Modal_TermsOfSvc___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_8_common_src_components_Modal_TermsOfSvc__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_common_src_components_Footer_Standard__ = __webpack_require__(868);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9_common_src_components_Footer_Standard___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_9_common_src_components_Footer_Standard__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_common_src_components_SupportWatchout_Standard__ = __webpack_require__(875);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10_common_src_components_SupportWatchout_Standard___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_10_common_src_components_SupportWatchout_Standard__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11_common_src_lib_util__ = __webpack_require__(44);
 
 
 
@@ -3779,14 +3843,14 @@ __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].use(__WEBPACK_IMPORTED_MODU
 /* harmony default export */ __webpack_exports__["default"] = ({
   name: 'app',
   components: {
-    NavigationWithIdentity: __WEBPACK_IMPORTED_MODULE_4_common_src_components_Navigation_Identity___default.a,
-    ModalAuth: __WEBPACK_IMPORTED_MODULE_5_common_src_components_Modal_Auth___default.a,
-    ModalLostPwd: __WEBPACK_IMPORTED_MODULE_6_common_src_components_Modal_LostPwd___default.a,
-    ModalResetPwd: __WEBPACK_IMPORTED_MODULE_7_common_src_components_Modal_ResetPwd___default.a,
-    ModalIdentity: __WEBPACK_IMPORTED_MODULE_8_common_src_components_Modal_Identity___default.a,
-    ModalTermsOfSvc: __WEBPACK_IMPORTED_MODULE_9_common_src_components_Modal_TermsOfSvc___default.a,
-    FooterStandard: __WEBPACK_IMPORTED_MODULE_10_common_src_components_Footer_Standard___default.a,
-    SupportWatchoutStandard: __WEBPACK_IMPORTED_MODULE_11_common_src_components_SupportWatchout_Standard___default.a
+    NavigationWithIdentity: __WEBPACK_IMPORTED_MODULE_3_common_src_components_Navigation_Identity___default.a,
+    ModalAuth: __WEBPACK_IMPORTED_MODULE_4_common_src_components_Modal_Auth___default.a,
+    ModalLostPwd: __WEBPACK_IMPORTED_MODULE_5_common_src_components_Modal_LostPwd___default.a,
+    ModalResetPwd: __WEBPACK_IMPORTED_MODULE_6_common_src_components_Modal_ResetPwd___default.a,
+    ModalIdentity: __WEBPACK_IMPORTED_MODULE_7_common_src_components_Modal_Identity___default.a,
+    ModalTermsOfSvc: __WEBPACK_IMPORTED_MODULE_8_common_src_components_Modal_TermsOfSvc___default.a,
+    FooterStandard: __WEBPACK_IMPORTED_MODULE_9_common_src_components_Footer_Standard___default.a,
+    SupportWatchoutStandard: __WEBPACK_IMPORTED_MODULE_10_common_src_components_SupportWatchout_Standard___default.a
   },
   computed: {
     isAuthenticated: function isAuthenticated() {
@@ -3810,7 +3874,29 @@ __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].use(__WEBPACK_IMPORTED_MODU
   },
   data: function data() {
     return {
-      channel: __WEBPACK_IMPORTED_MODULE_3_common_src_lib_dataStore__["a" /* default */].channels.musou,
+      channel: {
+        id: 'musou-media-experiment',
+        name: '國會無雙媒體實驗',
+        classes: {
+          bg: 'bg-musou'
+        },
+        links: {
+          home: 'https://musou.watchout.tw'
+        },
+        asset: {
+          logo: {
+            large: __webpack_require__(283),
+            small: __webpack_require__(284)
+          },
+          logoWithType: {
+            regular: {
+              src: __webpack_require__(282),
+              width: 214,
+              style: { width: '214px' }
+            }
+          }
+        }
+      },
       supportIsShown: true,
       supportPackageKey: 'musou'
     };
@@ -3832,19 +3918,19 @@ __WEBPACK_IMPORTED_MODULE_0_vue__["a" /* default */].use(__WEBPACK_IMPORTED_MODU
   },
   beforeMount: function beforeMount() {
     this.$store.dispatch('toggleIsAuthenticated', {
-      value: __WEBPACK_IMPORTED_MODULE_12_common_src_lib_util__["a" /* jwtTokenIsHere */]()
+      value: __WEBPACK_IMPORTED_MODULE_11_common_src_lib_util__["a" /* jwtTokenIsHere */]()
     });
   }
 });
 
 /***/ }),
-/* 330 */
+/* 334 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__interfaces_knowsMarkdown__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__draw_LineChart__ = __webpack_require__(877);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__interfaces_knowsMarkdown__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__draw_LineChart__ = __webpack_require__(884);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__draw_LineChart___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1__draw_LineChart__);
 
 
@@ -3859,14 +3945,14 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
       meta: [{
         vmid: 'og-image',
         property: 'og:image',
-        content: __webpack_require__(280)
+        content: __webpack_require__(281)
       }]
     };
   },
 
   props: ['channel', 'config'],
   data: function data() {
-    return __webpack_require__(908)("./" + this.config.id).default;
+    return __webpack_require__(915)("./" + this.config.id).default;
   },
 
   components: {
@@ -3875,17 +3961,17 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 331 */
+/* 335 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_SeriesMenu__ = __webpack_require__(285);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_SeriesMenu__ = __webpack_require__(289);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_SeriesMenu___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__components_SeriesMenu__);
 
 
 
-var menu = __webpack_require__(169).default;
+var menu = __webpack_require__(170).default;
 
 /* harmony default export */ __webpack_exports__["default"] = ({
   metaInfo: function metaInfo() {
@@ -3894,7 +3980,7 @@ var menu = __webpack_require__(169).default;
       meta: [{
         vmid: 'og-image',
         property: 'og:image',
-        content: __webpack_require__(282)
+        content: __webpack_require__(286)
       }]
     };
   },
@@ -3912,27 +3998,27 @@ var menu = __webpack_require__(169).default;
 });
 
 /***/ }),
-/* 332 */
+/* 336 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_get_iterator__ = __webpack_require__(65);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_get_iterator__ = __webpack_require__(64);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_get_iterator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_get_iterator__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_typeof__ = __webpack_require__(352);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_typeof__ = __webpack_require__(356);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_typeof___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_typeof__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_babel_runtime_core_js_set__ = __webpack_require__(171);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_babel_runtime_core_js_set__ = __webpack_require__(172);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_babel_runtime_core_js_set___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_babel_runtime_core_js_set__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_babel_runtime_helpers_toConsumableArray__ = __webpack_require__(173);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_babel_runtime_helpers_toConsumableArray__ = __webpack_require__(174);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_babel_runtime_helpers_toConsumableArray___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_babel_runtime_helpers_toConsumableArray__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__interfaces_knowsMarkdown__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__interfaces_knowsClasses__ = __webpack_require__(168);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__interfaces_knowsAudio__ = __webpack_require__(314);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_parse_color__ = __webpack_require__(733);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__interfaces_knowsMarkdown__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__interfaces_knowsClasses__ = __webpack_require__(169);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__interfaces_knowsAudio__ = __webpack_require__(318);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_parse_color__ = __webpack_require__(737);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8_parse_color___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_8_parse_color__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_SubtitlingMachine__ = __webpack_require__(875);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_SubtitlingMachine__ = __webpack_require__(882);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_SubtitlingMachine___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_9__components_SubtitlingMachine__);
 
 
@@ -3962,7 +4048,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
   props: ['config'],
   data: function data() {
-    var config = __webpack_require__(909)("./" + this.config.id + '.js').default;
+    var config = __webpack_require__(916)("./" + this.config.id + '.js').default;
     var state = {
       activeSceneIndex: 0,
       canvas: {
@@ -4312,17 +4398,17 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 333 */
+/* 337 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_promise__ = __webpack_require__(347);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_promise__ = __webpack_require__(351);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_promise___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_promise__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__interfaces_knowsMarkdown__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_color__ = __webpack_require__(359);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__interfaces_knowsMarkdown__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_color__ = __webpack_require__(363);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_color___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_color__);
 
 
@@ -4346,7 +4432,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
   props: ['config'],
   data: function data() {
-    return __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_object_assign___default()(__webpack_require__(910)("./" + this.config.id).default, {
+    return __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_object_assign___default()(__webpack_require__(917)("./" + this.config.id).default, {
       isLoading: true,
       mountingPoint: 'chart',
       scripts: ['https://plotdb.com/js/pack/view.js', 'https://plotdb.com/lib/showdown/1.5.0/index.min.js', 'https://plotdb.com/lib/d3/3.5.12/index.min.js', 'https://plotdb.io/lib/smooth-scroll/10.2.1/index.min.js']
@@ -4359,7 +4445,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
     },
     plotDBLogo: function plotDBLogo() {
       var color = __WEBPACK_IMPORTED_MODULE_3_color___default()(this.chart.contentStyle.backgroundColor);
-      return __webpack_require__(921)("./" + (color.light() ? 'light' : 'dark') + '.png');
+      return __webpack_require__(928)("./" + (color.light() ? 'light' : 'dark') + '.png');
     },
     sourceLink: function sourceLink() {
       return 'https://plotdb.io/v/chart/' + this.chart.id;
@@ -4410,24 +4496,24 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 334 */
+/* 338 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_set__ = __webpack_require__(171);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_set__ = __webpack_require__(172);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_set___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_set__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_toConsumableArray__ = __webpack_require__(173);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_toConsumableArray__ = __webpack_require__(174);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_toConsumableArray___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_babel_runtime_helpers_toConsumableArray__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_jquery__ = __webpack_require__(274);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_jquery__ = __webpack_require__(275);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_jquery__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_marked__ = __webpack_require__(91);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_marked__ = __webpack_require__(90);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_marked___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_marked__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_map_Count__ = __webpack_require__(878);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_map_Count__ = __webpack_require__(885);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_map_Count___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4__components_map_Count__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_map_Region__ = __webpack_require__(879);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_map_Region__ = __webpack_require__(886);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_map_Region___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_5__components_map_Region__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_map_World__ = __webpack_require__(880);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_map_World__ = __webpack_require__(887);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_map_World___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6__components_map_World__);
 
 
@@ -4446,14 +4532,14 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
       meta: [{
         vmid: 'og-image',
         property: 'og:image',
-        content: __webpack_require__(281)
+        content: __webpack_require__(285)
       }]
     };
   },
 
   props: ['channel', 'config'],
   data: function data() {
-    return __webpack_require__(911)("./" + this.config.id).default;
+    return __webpack_require__(918)("./" + this.config.id).default;
   },
 
   computed: {
@@ -4472,7 +4558,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
   mounted: function mounted() {
     var _this = this;
 
-    this.raw = __webpack_require__(920)("./" + this.dataSource);
+    this.raw = __webpack_require__(927)("./" + this.dataSource);
 
     __WEBPACK_IMPORTED_MODULE_2_jquery___default()('[val=data-tally-total]').html(this.raw.length);
     __WEBPACK_IMPORTED_MODULE_2_jquery___default()('[val=data-tally-country]').html(this.raw.filter(function (row) {
@@ -4504,12 +4590,12 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 335 */
+/* 339 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_SeriesMenu__ = __webpack_require__(285);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_SeriesMenu__ = __webpack_require__(289);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__components_SeriesMenu___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__components_SeriesMenu__);
 
 
@@ -4539,7 +4625,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 336 */
+/* 340 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4559,12 +4645,12 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 337 */
+/* 341 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__interfaces_knowsTokenization__ = __webpack_require__(315);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__interfaces_knowsTokenization__ = __webpack_require__(319);
 
 
 
@@ -4650,7 +4736,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 338 */
+/* 342 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -4658,8 +4744,8 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_vue__ = __webpack_require__(26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__interfaces_knowsMarkdown__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__interfaces_knowsClasses__ = __webpack_require__(168);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__interfaces_knowsMarkdown__ = __webpack_require__(63);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__interfaces_knowsClasses__ = __webpack_require__(169);
 
 
 
@@ -4682,7 +4768,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 
   props: ['config'],
   data: function data() {
-    var data = __webpack_require__(912)("./" + this.config.id).default;
+    var data = __webpack_require__(919)("./" + this.config.id).default;
     if (data.cards && Array.isArray(data.cards)) {
       data.cards = data.cards.map(function (card) {
         return __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default()(card, {
@@ -4774,7 +4860,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
   mounted: function mounted() {
     var _this = this;
 
-    var Swing = __webpack_require__(743);
+    var Swing = __webpack_require__(747);
     var elements = [].slice.call(document.querySelectorAll(this.cardSelector));
     var config = {
       allowedDirections: [Swing.Direction.LEFT, Swing.Direction.RIGHT],
@@ -4847,27 +4933,43 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
         _this.cards[index].hasBeenOut = true;
       }
     });
+  },
+  updated: function updated() {
+    var _this2 = this;
+
+    if (this.showMore) {
+      this.activeCard.more.map(function (section) {
+        if (section.type === 'script') {
+          var id = section.id;
+          var el = document.getElementById('script-container-' + id);
+          var script = _this2.scripts[id];
+          if (el && script) {
+            el.innerHTML = script;
+          }
+        }
+      });
+    }
   }
 });
 
 /***/ }),
-/* 339 */
+/* 343 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_helpers_slicedToArray__ = __webpack_require__(351);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_helpers_slicedToArray__ = __webpack_require__(355);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_helpers_slicedToArray___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_helpers_slicedToArray__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_get_iterator__ = __webpack_require__(65);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_get_iterator__ = __webpack_require__(64);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_get_iterator___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_babel_runtime_core_js_get_iterator__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_babel_runtime_core_js_json_stringify__ = __webpack_require__(345);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_babel_runtime_core_js_json_stringify__ = __webpack_require__(349);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_babel_runtime_core_js_json_stringify___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_babel_runtime_core_js_json_stringify__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_jquery__ = __webpack_require__(274);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_jquery__ = __webpack_require__(275);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4_jquery___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_4_jquery__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5_d3__ = __webpack_require__(153);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_marked__ = __webpack_require__(91);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_marked__ = __webpack_require__(90);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6_marked___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_6_marked__);
 
 
@@ -4940,7 +5042,7 @@ var presidents = {
     }
   },
   created: function created() {
-    this.rows.orig = __webpack_require__(286)("./" + this.config.id + '.json');
+    this.rows.orig = __webpack_require__(290)("./" + this.config.id + '.json');
     this.rows.user = JSON.parse(__WEBPACK_IMPORTED_MODULE_3_babel_runtime_core_js_json_stringify___default()(this.rows.orig));
     this.rows.user.forEach(function (row, index, rows) {
       if (row.fix && !(index + 1 < rows.length && !rows[index + 1].fix)) {
@@ -4949,7 +5051,7 @@ var presidents = {
     });
     if (this.config.compare) {
       this.rows.comp = this.config.compare.map(function (compareThis) {
-        return __webpack_require__(286)("./" + compareThis.id + '.json').map(function (row) {
+        return __webpack_require__(290)("./" + compareThis.id + '.json').map(function (row) {
           return __WEBPACK_IMPORTED_MODULE_2_babel_runtime_core_js_object_assign___default()({}, row, { show: true, fix: true });
         });
       });
@@ -5225,7 +5327,7 @@ var presidents = {
 });
 
 /***/ }),
-/* 340 */
+/* 344 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5269,7 +5371,7 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 });
 
 /***/ }),
-/* 341 */
+/* 345 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -5378,14 +5480,14 @@ __WEBPACK_IMPORTED_MODULE_0_d3__["a" /* selection */].prototype.tightlyPack = fu
 });
 
 /***/ }),
-/* 342 */
+/* 346 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__ = __webpack_require__(14);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_babel_runtime_core_js_object_assign__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_marked__ = __webpack_require__(91);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_marked__ = __webpack_require__(90);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_marked___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_marked__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_d3__ = __webpack_require__(153);
 
@@ -5603,10 +5705,6 @@ __WEBPACK_IMPORTED_MODULE_2_d3__["a" /* selection */].prototype.saveSize = funct
 });
 
 /***/ }),
-/* 343 */,
-/* 344 */,
-/* 345 */,
-/* 346 */,
 /* 347 */,
 /* 348 */,
 /* 349 */,
@@ -5620,151 +5718,30 @@ __WEBPACK_IMPORTED_MODULE_2_d3__["a" /* selection */].prototype.saveSize = funct
 /* 357 */,
 /* 358 */,
 /* 359 */,
-/* 360 */
-/***/ (function(module, exports, __webpack_require__) {
-
-var map = {
-	"./farmer/brown.png": 745,
-	"./farmer/green.png": 746,
-	"./farmer/tangerine.png": 747,
-	"./grass/big.png": 748,
-	"./grass/small.png": 749,
-	"./land/grass.png": 750,
-	"./land/soil/dark.png": 751,
-	"./land/soil/light.png": 752,
-	"./social/LINE/goodcitizen.png": 753,
-	"./social/LINE/goodfriend.png": 754,
-	"./social/LINE/round.png": 755,
-	"./social/facebook/round.png": 756,
-	"./tree/deliberate.png": 757,
-	"./tree/discover.png": 758,
-	"./tree/investigate.png": 759,
-	"./tree/sprout.png": 760
-};
-function webpackContext(req) {
-	return __webpack_require__(webpackContextResolve(req));
-};
-function webpackContextResolve(req) {
-	var id = map[req];
-	if(!(id + 1)) // check for number or string
-		throw new Error("Cannot find module '" + req + "'.");
-	return id;
-};
-webpackContext.keys = function webpackContextKeys() {
-	return Object.keys(map);
-};
-webpackContext.resolve = webpackContextResolve;
-module.exports = webpackContext;
-webpackContext.id = 360;
-
-/***/ }),
-/* 361 */
-/***/ (function(module, exports, __webpack_require__) {
-
-var map = {
-	"./farmer_hat.png": 761,
-	"./pitcher.png": 762
-};
-function webpackContext(req) {
-	return __webpack_require__(webpackContextResolve(req));
-};
-function webpackContextResolve(req) {
-	var id = map[req];
-	if(!(id + 1)) // check for number or string
-		throw new Error("Cannot find module '" + req + "'.");
-	return id;
-};
-webpackContext.keys = function webpackContextKeys() {
-	return Object.keys(map);
-};
-webpackContext.resolve = webpackContextResolve;
-module.exports = webpackContext;
-webpackContext.id = 361;
-
-/***/ }),
-/* 362 */
-/***/ (function(module, exports, __webpack_require__) {
-
-var map = {
-	"./ask/large.png": 774,
-	"./c0ngress/large.png": 776,
-	"./console/large.png": 778,
-	"./core/large.png": 780,
-	"./edu/large.png": 781,
-	"./kangsim/large.png": 783,
-	"./lab/large.png": 785,
-	"./maa/large.png": 787,
-	"./musou/large.png": 789,
-	"./park/large.png": 791,
-	"./watchout/large.png": 794,
-	"./woo/large.png": 796
-};
-function webpackContext(req) {
-	return __webpack_require__(webpackContextResolve(req));
-};
-function webpackContextResolve(req) {
-	var id = map[req];
-	if(!(id + 1)) // check for number or string
-		throw new Error("Cannot find module '" + req + "'.");
-	return id;
-};
-webpackContext.keys = function webpackContextKeys() {
-	return Object.keys(map);
-};
-webpackContext.resolve = webpackContextResolve;
-module.exports = webpackContext;
-webpackContext.id = 362;
-
-/***/ }),
-/* 363 */
-/***/ (function(module, exports, __webpack_require__) {
-
-var map = {
-	"./ask/small.png": 775,
-	"./c0ngress/small.png": 777,
-	"./console/small.png": 779,
-	"./edu/small.png": 782,
-	"./kangsim/small.png": 784,
-	"./lab/small.png": 786,
-	"./maa/small.png": 788,
-	"./musou/small.png": 790,
-	"./park/small.png": 792,
-	"./vendor/small.png": 793,
-	"./watchout/small.png": 795,
-	"./woo/small.png": 797
-};
-function webpackContext(req) {
-	return __webpack_require__(webpackContextResolve(req));
-};
-function webpackContextResolve(req) {
-	var id = map[req];
-	if(!(id + 1)) // check for number or string
-		throw new Error("Cannot find module '" + req + "'.");
-	return id;
-};
-webpackContext.keys = function webpackContextKeys() {
-	return Object.keys(map);
-};
-webpackContext.resolve = webpackContextResolve;
-module.exports = webpackContext;
-webpackContext.id = 363;
-
-/***/ }),
+/* 360 */,
+/* 361 */,
+/* 362 */,
+/* 363 */,
 /* 364 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./ask/regular.png": 763,
-	"./c0ngress/regular.png": 764,
-	"./console/regular.png": 765,
-	"./edu/regular.png": 766,
-	"./kangsim/regular.png": 767,
-	"./lab/regular.png": 768,
-	"./maa/regular.png": 769,
-	"./musou/regular.png": 770,
-	"./park/regular.png": 771,
-	"./watchout/regular.png": 772,
-	"./woo/regular.png": 773
+	"./farmer/brown.png": 749,
+	"./farmer/green.png": 750,
+	"./farmer/tangerine.png": 751,
+	"./grass/big.png": 752,
+	"./grass/small.png": 753,
+	"./land/grass.png": 754,
+	"./land/soil/dark.png": 755,
+	"./land/soil/light.png": 756,
+	"./social/LINE/goodcitizen.png": 757,
+	"./social/LINE/goodfriend.png": 758,
+	"./social/LINE/round.png": 759,
+	"./social/facebook/round.png": 760,
+	"./tree/deliberate.png": 761,
+	"./tree/discover.png": 762,
+	"./tree/investigate.png": 763,
+	"./tree/sprout.png": 764
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -5783,10 +5760,131 @@ module.exports = webpackContext;
 webpackContext.id = 364;
 
 /***/ }),
-/* 365 */,
-/* 366 */,
-/* 367 */,
-/* 368 */,
+/* 365 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"./farmer_hat.png": 765,
+	"./pitcher.png": 766
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 365;
+
+/***/ }),
+/* 366 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"./ask/large.png": 778,
+	"./c0ngress/large.png": 780,
+	"./console/large.png": 782,
+	"./core/large.png": 784,
+	"./edu/large.png": 785,
+	"./kangsim/large.png": 787,
+	"./lab/large.png": 789,
+	"./maa/large.png": 791,
+	"./musou/large.png": 793,
+	"./park/large.png": 795,
+	"./watchout/large.png": 798,
+	"./woo/large.png": 800
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 366;
+
+/***/ }),
+/* 367 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"./ask/small.png": 779,
+	"./c0ngress/small.png": 781,
+	"./console/small.png": 783,
+	"./edu/small.png": 786,
+	"./kangsim/small.png": 788,
+	"./lab/small.png": 790,
+	"./maa/small.png": 792,
+	"./musou/small.png": 794,
+	"./park/small.png": 796,
+	"./vendor/small.png": 797,
+	"./watchout/small.png": 799,
+	"./woo/small.png": 801
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 367;
+
+/***/ }),
+/* 368 */
+/***/ (function(module, exports, __webpack_require__) {
+
+var map = {
+	"./ask/regular.png": 767,
+	"./c0ngress/regular.png": 768,
+	"./console/regular.png": 769,
+	"./edu/regular.png": 770,
+	"./kangsim/regular.png": 771,
+	"./lab/regular.png": 772,
+	"./maa/regular.png": 773,
+	"./musou/regular.png": 774,
+	"./park/regular.png": 775,
+	"./watchout/regular.png": 776,
+	"./woo/regular.png": 777
+};
+function webpackContext(req) {
+	return __webpack_require__(webpackContextResolve(req));
+};
+function webpackContextResolve(req) {
+	var id = map[req];
+	if(!(id + 1)) // check for number or string
+		throw new Error("Cannot find module '" + req + "'.");
+	return id;
+};
+webpackContext.keys = function webpackContextKeys() {
+	return Object.keys(map);
+};
+webpackContext.resolve = webpackContextResolve;
+module.exports = webpackContext;
+webpackContext.id = 368;
+
+/***/ }),
 /* 369 */,
 /* 370 */,
 /* 371 */,
@@ -6123,30 +6221,10 @@ webpackContext.id = 364;
 /* 702 */,
 /* 703 */,
 /* 704 */,
-/* 705 */
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
-
-/***/ }),
-/* 706 */
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
-
-/***/ }),
-/* 707 */
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
-
-/***/ }),
-/* 708 */
-/***/ (function(module, exports) {
-
-// removed by extract-text-webpack-plugin
-
-/***/ }),
+/* 705 */,
+/* 706 */,
+/* 707 */,
+/* 708 */,
 /* 709 */
 /***/ (function(module, exports) {
 
@@ -6255,17 +6333,37 @@ webpackContext.id = 364;
 // removed by extract-text-webpack-plugin
 
 /***/ }),
-/* 727 */,
+/* 727 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
 /* 728 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 729 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 730 */
+/***/ (function(module, exports) {
+
+// removed by extract-text-webpack-plugin
+
+/***/ }),
+/* 731 */,
+/* 732 */
 /***/ (function(module, exports) {
 
 module.exports = "<h1 id=\"-\">使用條款</h1>\n<h2 id=\"-\">一、認知與接受條款</h2>\n<ol>\n<li>為保障您的權益，請您詳細閱讀本條款內容。確認您同意所有規範內容後，再開始註冊成為沃草有限公司（以下簡稱沃草）會員。如果您不同意本服務條款的內容，或者您所屬的國家或地域排除本服務條款內容之全部或部分時，您應立即停止使用本服務。此外，當您使用本服務之特定功能時，可能會依據該特定功能之性質，而須遵守本服務所另行公告之服務條款或相關規定。此另行公告之服務條款或相關規定亦均併入屬於本服務條款之一部分。沃草有權於任何時間修改或變更本服務條款之內容，並公告於本服務網站上，請您隨時注意該等修改或變更。若您於任何修改或變更後繼續使用本服務，則視為您已閱讀、了解並同意接受該等修改或變更。</li>\n<li>若您為未滿二十歲，除應符合上述規定外，並應於您的家長（或監護人）閱讀、瞭解並同意本約定書之所有內容及其後修改變更後，方得使用或繼續使用本服務。當您使用或繼續使用本服務，即表示您的家長（或監護人）已閱讀、瞭解並同意接受本約定書之所有內容及其後修改變更。</li>\n<li>會員及沃草雙方同意使用本服務之所有內容包括意思表示等，以電子文件作為表示方式。</li>\n<li>為了確保會員之個人資料、隱私及消費者權益之保護，於網站使用過程中將使用會員之個人資料，謹依個人資料保護法第8條規定告知以下事項：<ol>\n<li>蒐集之目的：蒐集之目的在於進行行銷業務、消費者、客戶管理與服務、網路購物及其他電子商務服務及與調查、統計與研究分析（法定特定目的項目編號為<code>〇四〇</code>、<code>〇九〇</code>、<code>一四八</code>、<code>一五七</code>）。沃草將藉由加入會員之過程或進行交易之過程來蒐集個人資料。</li>\n<li>蒐集之個人資料類別：沃草於網站內蒐集的個人資料包括，<ul>\n<li><code>C001</code> 辨識個人者：如會員之姓名、地址、電話、電子郵件等資訊。</li>\n<li><code>C002</code> 辨識財務者：如信用卡或金融機構帳戶資訊。</li>\n<li><code>C011</code> 個人描述：例如：性別、出生年月日、學歷等。</li>\n</ul>\n</li>\n<li>利用期間、地區、對象及方式：<ol>\n<li>期間：會員當事人要求停止使用或沃草停止提供服務之日為止。</li>\n<li>地區：會員之個人資料將使用於台灣地區。</li>\n<li>利用對象及方式：會員之個人資料蒐集除用於沃草之會員管理、客戶管理之檢索查詢等功能外，亦將利用於辨識身份、金流服務、物流服務、行銷廣宣等。例示如下：<ol>\n<li>以會員身份使用沃草提供之各項服務時，於頁面中自動顯示會員資訊。</li>\n<li>為遂行交易行為：會員對商品或勞務為預約、下標、購買、參與贈獎等之活動或從事其他交易時，關於商品配送、勞務提供、價金給付、回覆客戶之詢問、沃草對會員之詢問、相關售後服務及其他遂行交易所必要之業務。</li>\n<li>宣傳廣告或行銷等：提供會員各種電子雜誌等資訊、透過電子郵件、郵件、電話等提供與服務有關之資訊。將會員所瀏覽之內容或廣告，依客戶之個人屬性或購買紀錄、沃草網站之瀏覽紀錄等項目，進行個人化作業、會員使用服務之分析、新服務之開發或既有服務之改善等。針對民調、活動、留言版等之意見，或其他服務關連事項，與會員進行聯繫。</li>\n<li>回覆客戶之詢問：針對會員透過電子郵件、郵件、、傳真、電話或其他任何直接間接連絡方式向沃草所提出之詢問進行回覆。</li>\n<li>其他業務附隨之事項：附隨於上述<code>4.3.3.1</code>至<code>4.3.3.4</code>之利用目的而為沃草提供服務所必要之使用。</li>\n<li>對於各別服務提供者之資訊提供：會員對服務提供者之商品或勞務為預約、下標、購買、參加贈獎活動或申請其他交易時，沃草於該交易所必要之範圍內，得將會員之個人資料檔案提供予服務提供者，並由服務提供者負責管理該個人資料檔案。沃草將以規約課予服務提供者依保障會員隱私權之原則處理個人資料之義務，但無法保證服務提供者會必然遵守。詳細內容，請向各別服務提供者洽詢。</li>\n<li>其他：提供個別服務時，亦可能於上述規定之目的以外，利用個人資料。此時將在該個別服務之網頁載明其要旨。</li>\n</ol>\n</li>\n</ol>\n</li>\n<li>會員就個人資料之權利：沃草所蒐集個人資料之當事人，依個人資料保護法得對沃草行使以下權利：<ol>\n<li>查詢或請求閱覽。</li>\n<li>請求製給複製本。</li>\n<li>請求補充或更正。</li>\n<li>請求停止蒐集、處理或利用。</li>\n<li>請求刪除。</li>\n</ol>\n</li>\n<li>會員如欲行使上述權利，可與沃草客服連絡進行申請。</li>\n<li>請注意！如拒絕提供加入會員所需必要之資料，將可能導致無法享受完整服務或完全無法使用該項服務。</li>\n</ol>\n</li>\n</ol>\n<h2 id=\"-\">二、與第三人網站的連結</h2>\n<p>本服務或協力廠商可能會提供連結至其他網站或網路資源的連結。您可能會因此連結至其他業者經營的網站，但不表示沃草有限公司與該等業者有任何關係。其他業者經營的網站均由各該業者自行負責，不屬沃草有限公司控制及負責範圍之內。沃草有限公司對任何檢索結果或外部連結，不擔保其合適性、可依賴性、即時性、有效性、正確性及完整性。您也許會檢索或連結到一些令您厭惡或不需要的網站，這是網際網路運作的可能結果，遇到此類情形時，沃草有限公司建議您不要瀏覽或儘速離開該等網站。您並同意沃草有限公司無須為您連結至非屬於沃草有限公司之網站所生之任何損害，負損害賠償之責任。</p>\n<h2 id=\"-\">三、會員的註冊義務</h2>\n<p>為了能使用本服務，會員同意以下事項：</p>\n<ol>\n<li>依本服務註冊表之提示提供會員本人正確、最新的資料，且不得以第三人之名義註冊為會員。每位會員僅能註冊登錄一個帳號，不可重覆註冊登錄。</li>\n<li>即時維持並更新會員個人資料，確保其正確性，以獲取最佳之服務。</li>\n<li>若會員提供任何錯誤或不實的資料、或未按指示提供資料、或欠缺必要之資料、或有重覆註冊帳號等情事時，沃草有權不經事先通知，逕行暫停或終止會員的帳號，並拒絕會員使用本服務之全部或一部。</li>\n</ol>\n<h2 id=\"-\">四、沃草《隱私權政策》</h2>\n<ol>\n<li>為識別使用者與提供專案訂閱服務，本服務會蒐集使用者之電子信箱、居住地區、性別、生日、以及使用者於Facebook設定為公開之資訊。本服務會寄送平台電子報及使用者訂閱之專案更新至使用者登錄之信箱。本服務將就使用者資訊去個人化後進行數據統計與研究，以改善服務。本服務對於使用者、提案者或贊助者所取得之任何資訊，除上述使用範圍外，非經當事人同意、當事人自行公開或對行政、司法或他人法律程序之必要，否則本服務不會向任何其他對象分享您的個人資料。使用者可隨時在「帳號設定」中刪除或修改您登錄之一般使用者資料，或於接獲任何形式的聯絡時要求註銷所蒐集資料。</li>\n<li>本服務有權但無義務於使用者註銷資格屆滿五年後，刪除所蒐集之各項個人資料。</li>\n<li>《隱私權政策》內容，包括本網站如何處理在您使用網站服務時收集到的個人識別資料。《隱私權政策》不適用於本網站以外的相關連結網站，也不適用於非本網站所委託或參與管理的人員。</li>\n<li>沃草相關網站所取得的個人資料，都僅供沃草來於其內部、依照原來所說明的使用目的和範圍，除非事先說明、或依照相關法律規定，否則沃草不會將資料提供給第三人、或移作其他目的使用。本網站絕不會提供、交換、出租或出售任何您的個人資料給其他個人、團體、私人企業或公務機關，但有法律依據或合約義務者，不在此限。前項但書之情形包括不限於：<ol>\n<li>經由您書面同意。</li>\n<li>法律明文規定。</li>\n<li>為免除您生命、身體、自由或財產上之危險。</li>\n<li>與公務機關或學術研究機構合作，基於公共利益為統計或學術研究而有必要，且資料經過提供者處理或蒐集著依其揭露方式無從識別特定之當事人。</li>\n<li>當您在網站的行為，違反服務條款或可能損害或妨礙網站與其他使用者權益或導致任何人遭受損害時，經網站管理單位研析揭露您的個人資料是為了辨識、聯絡或採取法律行動所必要者。</li>\n<li>有利於您的權益。</li>\n<li>本網站委託廠商協助蒐集、處理或利用您的個人資料時，將對委外廠商或個人善盡監督管理之責。</li>\n</ol>\n</li>\n<li>為了提供您最佳的服務，本網站會在您的電腦中放置並取用我們的cookie，若您不願接受cookie的寫入，您可在您使用的瀏覽器功能項中設定隱私權等級為高，即可拒絕cookie的寫入，但可能會導至網站某些功能無法正常執行。</li>\n<li>本網站的《隱私權政策》將因應需求修正，但我們不會在未經您明確同意的情況下，即縮減本《隱私權政策》賦予您的權利。《隱私權政策》變更時一律會在本頁發佈；如果屬於重大變更，我們會提供更明顯的通知，包括某些服務會以電子郵件通知《隱私權政策》的變更。</li>\n</ol>\n<h2 id=\"-\">五、會員帳號、密碼及安全</h2>\n<ol>\n<li>完成本服務的登記程序之後，會員將取得一個特定之密碼及會員帳號，維持密碼及帳號之機密安全，是會員的責任。任何依照規定方法輸入會員帳號及密碼與登入資料一致時，無論是否由本人親自輸入，均將推定為會員本人所使用，利用該密碼及帳號所進行的一切行動，會員本人應負完全責任。</li>\n<li>會員同意以下事項：<ol>\n<li>會員的密碼或帳號遭到盜用或有其他任何安全問題發生時，會員將立即通知沃草。</li>\n<li>每次連線完畢，均結束會員的帳號使用。</li>\n<li>會員的帳號、密碼及會員權益均僅供會員個人使用及享有，不得轉借、轉讓他人或與他人合用。</li>\n<li>帳號及密碼遭盜用、不當使用或其他沃草無法辯識是否為本人親自使用之情況時，對此所致之損害，除證明係因可歸責於沃草之事由所致，沃草將不負任何責任。</li>\n<li>沃草若知悉會員之帳號密碼確係遭他人冒用時，將立即暫停該帳號之使用（含該帳號所生交易之處理）。</li>\n<li>當沃草同意使用Facebook帳號登入使用本服務時，該Facebook帳號之密碼是由Facebook網站所處理，沃草並不會接觸到該密碼，而且每一個Facebook帳號只能綁定一個沃草會員帳號進行登入，第一次綁定後即不能再予修改。</li>\n<li>就沃草而言，經由登入Facebook帳號及密碼而登入使用本服務時，該登入的帳號即代表會員本人，使用者於使用本服務之任何行為，均視為會員本人之行為，並需遵循沃草會員條款之各項約定。會員必須妥善設定、維護及保管自己之Facebook帳號及密碼，包含但不限使用本服務結束時應適時登出本服務之網站並同時登出Facebook帳號。</li>\n<li>如果會員洩漏自己的個人資料、密碼或付款資料，並使得第三人有使用的機會時，會員必須就第三人的行為負全部責任。沃草並可隨時暫停或終止提供本項使用Facebook帳號登入使用本服務之措施。</li>\n</ol>\n</li>\n</ol>\n<h2 id=\"-\">六、兒童及青少年之保護</h2>\n<p>為確保兒童及青少年使用網路的安全，並避免隱私權受到侵犯，家長（或監護人）應盡到下列義務：未滿十二歲之兒童使用本服務時時，應全程在旁陪伴，十二歲以上未滿十八歲之青少年使用本服務前亦應斟酌是否給予同意。</p>\n<h2 id=\"-\">七、使用者的守法義務及承諾</h2>\n<p>會員承諾絕不為任何非法目的或以任何非法方式使用本服務，並承諾遵守中華民國相關法規及一切使用網際網路之國際慣例。會員若係中華民國以外之使用者，並同意遵守所屬國家或地域之法令。會員同意並保證不得利用本服務從事侵害他人權益或違法之行為，包括但不限於：</p>\n<ol>\n<li>公布或傳送任何誹謗、侮辱、具威脅性、攻擊性、不雅、猥褻、不實、違反公共秩序或善良風俗或其他不法之文字、圖片或任何形式的檔案。</li>\n<li>侵害或毀損沃草或他人名譽、隱私權、營業秘密、商標權、著作權、專利權、其他智慧財產權及其他權利。</li>\n<li>違反依法律或契約所應負之保密義務。</li>\n<li>冒用他人名義使用本服務。</li>\n<li>傳輸或散佈電腦病毒。</li>\n<li>從事未經沃草事前授權的商業行為。</li>\n<li>刊載、傳輸、發送垃圾郵件、連鎖信、違法或未經沃草許可之多層次傳銷訊息及廣告等；或儲存任何侵害他人智慧財產權或違反法令之資料。</li>\n<li>對本服務其他用戶或第三人產生困擾、不悅或違反一般網路禮節致生反感之行為。</li>\n<li>其他不符本服務所提供的使用目的之行為或沃草有正當理由認為不適當之行為。</li>\n</ol>\n<h2 id=\"-\">八、服務內容之變更與電子報及商品訊息發送</h2>\n<ol>\n<li>會員同意沃草所提供本服務之範圍，沃草均得視業務需要及實際情形，增減、變更或終止相關服務的項目或內容，且無需個別通知會員。</li>\n<li>會員同意沃草得依實際執行情形，增加、修改或終止相關活動，並選擇最適方式告知會員。</li>\n<li>會員同意沃草得不定期發送電子報或商品訊息至會員所登錄的電子信箱帳號。當會員收到訊息後表示拒絕接受行銷時，沃草將停止繼續發送行銷訊息。</li>\n</ol>\n<h2 id=\"-\">九、服務之停止、中斷</h2>\n<p>沃草將依一般合理之技術及方式，維持系統及服務之正常運作。但於以下各項情況時，沃草有權可以停止、中斷提供本服務：</p>\n<ol>\n<li>沃草網站電子通信設備進行必要之保養及施工時。</li>\n<li>發生突發性之電子通信設備故障時。</li>\n<li>沃草網站申請之電子通信服務被停止，無法提供服務時。</li>\n<li>由於天災等不可抗力之因素或其他不可歸責於沃草致使沃草網站無法提供服務時。</li>\n</ol>\n<h2 id=\"-\">十、交易行為</h2>\n<ol>\n<li>會員使用本服務進行交易時，應依據沃草所提供之確認商品數量及價格機制進行。</li>\n<li>會員同意使用本服務訂購產品時，於沃草通知確認交易成立前，沃草仍保有不接受訂單或取消出貨之權利。會員向沃草發出訂購通知後，系統將自動發出接受通知，但此通知並非訂單確認通知，關於交易成立與否沃草將另行告知。若因訂單內容之標的商品或服務，其交易條件（包括但不限於規格、內容說明、圖片）有誤時，沃草仍得於下單後二工作日內拒絕該筆訂單。</li>\n<li>會員若於使用本服務訂購產品後倘任意退換貨、取消訂單、或有任何沃草認為不適當而造成沃草作業上之困擾或損害之行為，沃草將可視情況採取拒絕交易、暫停取消7-11或客樂得配送付款方式，或永久取消會員資格辦理。若會員訂購之產品若屬於以下情形：<ol>\n<li>預購類商品，</li>\n<li>商品頁顯示無庫存，</li>\n<li>須向供應商調貨，</li>\n<li>轉由廠商出貨，因商品交易特性之故，倘商品缺絕、或廠商因故無法順利供貨導致訂單無法成立時，沃草將以最適方式（以電子郵件為主，再輔以電話、郵遞或傳真等）告知。</li>\n</ol>\n</li>\n<li>會員使用本服務進行交易時，得依照消費者保護法之規定行使權利。因會員之交易行為而對本服務條款產生疑義時，應為有利於消費者之解釋。</li>\n</ol>\n<h2 id=\"-\">十一、廣告</h2>\n<p>您在本服務上瀏覽到的所有廣告內容、文字與圖片之說明、展示樣品或其他銷售資訊，均由各該廣告商、產品與服務的供應商所設計與提出。您對於廣告之正確性與可信度應自行斟酌與判斷。沃草有限公司僅接受委託予以刊登，不對前述廣告負擔保責任。</p>\n<h2 id=\"-\">十二、責任之限制與排除</h2>\n<ol>\n<li><p>本服務所提供之各項功能，均依該功能當時之現況提供使用，沃草對於其效能、速度、完整性、可靠性、安全性、正確性等，皆不負擔任何明示或默示之擔保責任。</p>\n</li>\n<li><p>沃草並不保證本服務之網頁、伺服器、網域等所傳送的電子郵件或其內容不會含有電腦病毒等有害物；亦不保證郵件、檔案或資料之傳輸儲存均正確無誤不會斷線和出錯等，因各該郵件、檔案或資料傳送或儲存失敗、遺失或錯誤等所致之損害，沃草不負賠償責任。</p>\n</li>\n</ol>\n<h2 id=\"-\">十三、智慧財產權的保護</h2>\n<ol>\n<li>沃草所使用之軟體或程式、網站上所有內容，包括但不限於著作、圖片、檔案、資訊、資料、網站架構、網站畫面的安排、網頁設計，均由沃草或其他權利人依法擁有其智慧財產權，包括但不限於商標權、專利權、著作權、營業秘密與專有技術等。任何人不得逕自使用、修改、重製、公開播送、改作、散布、發行、公開發表、進行還原工程、解編或反向組譯。若會員欲引用或轉載前述軟體、程式或網站內容，必須依法取得沃草或其他權利人的事前書面同意。尊重智慧財產權是會員應盡的義務，如有違反，會員應對沃草負損害賠償責任（包括但不限於訴訟費用及律師費用等）。</li>\n<li>在尊重他人智慧財產權之原則下，會員同意在使用沃草之服務時，不作侵害他人智慧財產權之行為。</li>\n<li>若會員有涉及侵權之情事，沃草可暫停全部或部份之服務，或逕自以取消會員帳號之方式處理。</li>\n<li>若有發現智慧財產權遭侵害之情事，請將所遭侵權之情形及聯絡方式，並附具真實陳述及擁有合法智慧財產權之聲明，以下列方式聯絡沃草：<ol>\n<li>以電子郵件（Email）寄送至<a href=\"mailto:`info@watchout.tw\">`info@watchout.tw</a>`。</li>\n</ol>\n</li>\n</ol>\n<h2 id=\"-\">十四、會員之行為</h2>\n<ol>\n<li><p>由會員公開張貼或私下傳送的資訊、資料、文字、軟體、音樂、音訊、照片、圖形、視訊、信息或其他資料（以下簡稱「會員內容」），均由會員內容提供者自負責任。沃草有限公司無法控制經由本服務而張貼之會員內容，因此不保証其正確性、完整性或品質。您了解使用本服務時，可能會接觸到令人不快、不適當、令人厭惡之會員內容。在任何情況下，沃草有限公司均不為任何會員內容負責，包含但不限於任何錯誤或遺漏，以及經由本服務張貼、發送電子郵件或傳送而衍生之任何損失或損害。</p>\n</li>\n<li><p>您了解沃草有限公司並未針對會員內容事先加以審查，但沃草有限公司有權（但無義務）依其自行之考量，拒絕或移除經由本服務提供之任何會員內容。在不限制前開規定之前提下，沃草有限公司及其指定人有權將違反本服務條款和令人厭惡之任何會員內容加以移除。您使用任何會員內容時，就前開會員內容之正確性、完整性或實用性之情形，您同意必須自行加以評估並承擔所有風險。您了解並同意，沃草有限公司依據法律的要求，或基於以下目的之合理必要範圍內，認定必須將會員內容加以保存或揭露予政府機關、司法警察或未成年人之監護人時，得加以保存及揭露：</p>\n<ol>\n<li>遵守法令或政府機關之要求律程序。</li>\n<li>執行本服務條款。</li>\n<li>回應任何侵害第三人權利之主張。</li>\n<li>保護沃草有限公司及其使用者及公眾之權利、財產或個人安全。</li>\n</ol>\n</li>\n</ol>\n<h2 id=\"-\">十五、會員對沃草之授權</h2>\n<p>對於會員上載、傳送、輸入或提供之資料，會員同意沃草網站得於合理之範圍內蒐集、處理、保存、傳遞及使用該等資料，以提供使用者其他資訊或服務、或作成會員統計資料、或進行關於網路行為之調查或研究，或為任何之合法使用。若會員無合法權利得授權他人使用、修改、重製、公開播送、改作、散布、發行、公開發表某資料，並將前述權利轉授權第三人，請勿擅自將該資料上載、傳送、輸入或提供至沃草。任何資料一經會員上載、傳送、輸入或提供至沃草時，視為會員已允許沃草無條件使用、修改、重製、公開播送、改作、散布、發行、公開發表該等資料，並得將前述權利轉授權他人，會員對此絕無異議。會員並應保證沃草使用、修改、重製、公開播送、改作、散布、發行、公開發表、轉授權該等資料，不致侵害任何第三人之智慧財產權，否則應對沃草負損害賠償責任（包括但不限於訴訟費用及律師費用等）。</p>\n<h2 id=\"-\">十六、特別授權事項</h2>\n<p>因使用本服務所提供之網路交易或活動，可能須透過宅配或貨運業者始能完成貨品（或贈品等）之配送或取回，因此，會員同意並授權沃草得視該次網路交易或活動之需求及目的，將由會員所提供且為配送所必要之個人資料（如收件人姓名、配送地址、連絡電話等），提供予宅配貨運業者及相關配合之廠商，以利完成該次貨品（或贈品等）之配送、取回。</p>\n<h2 id=\"-\">十七、拒絕或終止會員的使用</h2>\n<p>會員同意沃草得基於維護交易安全之考量，因任何理由，包含但不限於缺乏使用，或違反本服務條款的明文規定及精神，終止會員的密碼、帳號（或其任何部分）或本服務（或其任何部分）之使用，或將本服務內任何「會員內容」加以移除並刪除。此外，會員同意若本服務（或其任何部分）之使用被終止，沃草對會員或任何第三人均不承擔責任。</p>\n<h2 id=\"-\">十八、準據法與管轄法院</h2>\n<p>本服務條款之解釋與適用，以及與本服務條款有關或會員與沃草間因交易行為而產生之爭議或糾紛，應依照中華民國法律予以處理，並以台灣台北地方法院為第一審管轄法院，但若法律對於管轄法院另有強制規定者，仍應依其規定。</p>\n";
 
 /***/ }),
-/* 729 */,
-/* 730 */,
-/* 731 */,
-/* 732 */,
 /* 733 */,
 /* 734 */,
 /* 735 */,
@@ -6278,797 +6376,731 @@ module.exports = "<h1 id=\"-\">使用條款</h1>\n<h2 id=\"-\">一、認知與�
 /* 742 */,
 /* 743 */,
 /* 744 */,
-/* 745 */
+/* 745 */,
+/* 746 */,
+/* 747 */,
+/* 748 */,
+/* 749 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/brown.057314e.png";
 
 /***/ }),
-/* 746 */
+/* 750 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/green.d06b0f7.png";
 
 /***/ }),
-/* 747 */
+/* 751 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/tangerine.a449e75.png";
 
 /***/ }),
-/* 748 */
+/* 752 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/big.d339da3.png";
 
 /***/ }),
-/* 749 */
+/* 753 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.3c6bc99.png";
 
 /***/ }),
-/* 750 */
+/* 754 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/grass.0a828d1.png";
 
 /***/ }),
-/* 751 */
+/* 755 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/dark.6d87b79.png";
 
 /***/ }),
-/* 752 */
+/* 756 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/light.1f94a47.png";
 
 /***/ }),
-/* 753 */
+/* 757 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/goodcitizen.e662d24.png";
 
 /***/ }),
-/* 754 */
+/* 758 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/goodfriend.bad449b.png";
 
 /***/ }),
-/* 755 */
+/* 759 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/round.adefc0b.png";
 
 /***/ }),
-/* 756 */
+/* 760 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/round.39d3911.png";
 
 /***/ }),
-/* 757 */
+/* 761 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/deliberate.27d81ca.png";
 
 /***/ }),
-/* 758 */
+/* 762 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/discover.736b29c.png";
 
 /***/ }),
-/* 759 */
+/* 763 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/investigate.ca76734.png";
 
 /***/ }),
-/* 760 */
+/* 764 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/sprout.afd70e8.png";
 
 /***/ }),
-/* 761 */
+/* 765 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/farmer_hat.f9d365c.png";
 
 /***/ }),
-/* 762 */
+/* 766 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/pitcher.faf2576.png";
 
 /***/ }),
-/* 763 */
+/* 767 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.952959c.png";
 
 /***/ }),
-/* 764 */
+/* 768 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.d6b4b30.png";
 
 /***/ }),
-/* 765 */
+/* 769 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.222a59b.png";
 
 /***/ }),
-/* 766 */
+/* 770 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.b2d46c5.png";
 
 /***/ }),
-/* 767 */
+/* 771 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.2042479.png";
 
 /***/ }),
-/* 768 */
+/* 772 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.5ddb36b.png";
 
 /***/ }),
-/* 769 */
+/* 773 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.bf59c62.png";
 
 /***/ }),
-/* 770 */
+/* 774 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.90906e9.png";
 
 /***/ }),
-/* 771 */
+/* 775 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.70374df.png";
 
 /***/ }),
-/* 772 */
+/* 776 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.b7e8033.png";
 
 /***/ }),
-/* 773 */
+/* 777 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/regular.46b0edf.png";
 
 /***/ }),
-/* 774 */
+/* 778 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.b3bf395.png";
 
 /***/ }),
-/* 775 */
+/* 779 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.ddcd5ed.png";
 
 /***/ }),
-/* 776 */
+/* 780 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.7208956.png";
 
 /***/ }),
-/* 777 */
+/* 781 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.c5161c4.png";
 
 /***/ }),
-/* 778 */
+/* 782 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.35168c1.png";
 
 /***/ }),
-/* 779 */
+/* 783 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.5255223.png";
 
 /***/ }),
-/* 780 */
+/* 784 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.966c75c.png";
 
 /***/ }),
-/* 781 */
+/* 785 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.49a847f.png";
 
 /***/ }),
-/* 782 */
+/* 786 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.020756d.png";
 
 /***/ }),
-/* 783 */
+/* 787 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.0bba751.png";
 
 /***/ }),
-/* 784 */
+/* 788 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.816868b.png";
 
 /***/ }),
-/* 785 */
+/* 789 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.2aa4ef9.png";
 
 /***/ }),
-/* 786 */
+/* 790 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.737d46c.png";
 
 /***/ }),
-/* 787 */
+/* 791 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.eab2218.png";
 
 /***/ }),
-/* 788 */
+/* 792 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.1245852.png";
 
 /***/ }),
-/* 789 */
+/* 793 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.0d406e8.png";
 
 /***/ }),
-/* 790 */
+/* 794 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.5fd787c.png";
 
 /***/ }),
-/* 791 */
+/* 795 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.a604f62.png";
 
 /***/ }),
-/* 792 */
+/* 796 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.62a3adf.png";
 
 /***/ }),
-/* 793 */
+/* 797 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.f7e6d03.png";
 
 /***/ }),
-/* 794 */
+/* 798 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.77e8757.png";
 
 /***/ }),
-/* 795 */
+/* 799 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.2e62186.png";
 
 /***/ }),
-/* 796 */
+/* 800 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/large.643e124.png";
 
 /***/ }),
-/* 797 */
+/* 801 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/small.c98a5fe.png";
 
 /***/ }),
-/* 798 */
+/* 802 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/3-principles.715549d.jpg";
 
 /***/ }),
-/* 799 */
+/* 803 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/another-future-dark.eca3983.jpg";
 
 /***/ }),
-/* 800 */
+/* 804 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/another-future-light.a195b07.jpg";
 
 /***/ }),
-/* 801 */
+/* 805 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1945-10-11.3068e6f.gif";
 
 /***/ }),
-/* 802 */
+/* 806 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1945-10-12.5b634ff.gif";
 
 /***/ }),
-/* 803 */
+/* 807 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1945-10-18.6c42a39.gif";
 
 /***/ }),
-/* 804 */
+/* 808 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1945-10-28.46b3d3e.gif";
 
 /***/ }),
-/* 805 */
+/* 809 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1945-11-15.a2cbb43.gif";
 
 /***/ }),
-/* 806 */
+/* 810 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1945-12-27.7231bf5.gif";
 
 /***/ }),
-/* 807 */
+/* 811 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-01-18.ee61018.gif";
 
 /***/ }),
-/* 808 */
+/* 812 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-02-12.fd72c31.gif";
 
 /***/ }),
-/* 809 */
+/* 813 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-02-21.c1dc624.gif";
 
 /***/ }),
-/* 810 */
+/* 814 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-03-16.cac861e.gif";
 
 /***/ }),
-/* 811 */
+/* 815 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-03-30.4f26bd2.gif";
 
 /***/ }),
-/* 812 */
+/* 816 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-03-31.1ce3da3.gif";
 
 /***/ }),
-/* 813 */
+/* 817 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-04-06.17cd0a6.gif";
 
 /***/ }),
-/* 814 */
+/* 818 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-04-16.d1bd394.gif";
 
 /***/ }),
-/* 815 */
+/* 819 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-04-19.f47246d.gif";
 
 /***/ }),
-/* 816 */
+/* 820 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-05-07.cc09e6e.gif";
 
 /***/ }),
-/* 817 */
+/* 821 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-07-14.fb223a9.gif";
 
 /***/ }),
-/* 818 */
+/* 822 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-07-16.b92af86.gif";
 
 /***/ }),
-/* 819 */
+/* 823 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-08-13.f78cb5e.gif";
 
 /***/ }),
-/* 820 */
+/* 824 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-10-14.0941a66.gif";
 
 /***/ }),
-/* 821 */
+/* 825 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-10-16.4284c9a.gif";
 
 /***/ }),
-/* 822 */
+/* 826 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-11-18.ce9c952.gif";
 
 /***/ }),
-/* 823 */
+/* 827 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1946-11-26.b43b609.gif";
 
 /***/ }),
-/* 824 */
+/* 828 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1947-02-12.2feb515.gif";
 
 /***/ }),
-/* 825 */
+/* 829 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1947-02-26.20bba81.gif";
 
 /***/ }),
-/* 826 */
+/* 830 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/1947-02-28.5da8294.gif";
 
 /***/ }),
-/* 827 */
+/* 831 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/creation_of_minpo.1e7dd42.jpg";
 
 /***/ }),
-/* 828 */
+/* 832 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/radio.cd20fc3.png";
 
 /***/ }),
-/* 829 */
+/* 833 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/吳鴻麒.27d9cfc.jpg";
 
 /***/ }),
-/* 830 */
+/* 834 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/施江南.9892fe9.jpg";
 
 /***/ }),
-/* 831 */
+/* 835 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/林界.cfc757f.jpg";
 
 /***/ }),
-/* 832 */
+/* 836 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/林茂生.ede4763.jpg";
 
 /***/ }),
-/* 833 */
+/* 837 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/楊元丁.d13baa1.jpg";
 
 /***/ }),
-/* 834 */
+/* 838 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/王添灯.3ff1432.jpg";
 
 /***/ }),
-/* 835 */
+/* 839 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/王育霖.0c782df.jpg";
 
 /***/ }),
-/* 836 */
+/* 840 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/陳澄波.0cd90fd.jpg";
 
 /***/ }),
-/* 837 */
+/* 841 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/陳炘.0b813b5.jpg";
 
 /***/ }),
-/* 838 */
+/* 842 */
 /***/ (function(module, exports, __webpack_require__) {
 
 module.exports = __webpack_require__.p + "static/img/黃朝生.b2ea11a.jpg";
 
 /***/ }),
-/* 839 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/img/hand.7c1de2a.svg";
-
-/***/ }),
-/* 840 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/img/journey-background.857b8df.png";
-
-/***/ }),
-/* 841 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/img/journey.b037bbd.png";
-
-/***/ }),
-/* 842 */
-/***/ (function(module, exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "static/img/33349214.71e387a.jpg";
-
-/***/ }),
 /* 843 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/53vTbZFz.3310d4b.jpg";
+module.exports = __webpack_require__.p + "static/img/congress-midterm-mock-exam.5481c80.jpg";
 
 /***/ }),
 /* 844 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/70181883.884ad41.jpg";
+module.exports = __webpack_require__.p + "static/img/hand.7c1de2a.svg";
 
 /***/ }),
 /* 845 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/70182271.22cbc5c.jpg";
+module.exports = __webpack_require__.p + "static/img/journey-background.857b8df.png";
 
 /***/ }),
 /* 846 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/NGC3621-.3f6cee7.jpg";
+module.exports = __webpack_require__.p + "static/img/journey.b037bbd.png";
 
 /***/ }),
 /* 847 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/_8uD3NOc.e46e640.jpg";
+module.exports = __webpack_require__.p + "static/img/regular.7a09f95.png";
 
 /***/ }),
 /* 848 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/aab1f208.5fd67e0.jpg";
+module.exports = __webpack_require__.p + "static/img/large-1024.4bc6135.png";
 
 /***/ }),
 /* 849 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/b8dbb78b.a450d95.jpg";
+module.exports = __webpack_require__.p + "static/img/33349214.71e387a.jpg";
 
 /***/ }),
 /* 850 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/chatSystems.7035c04.png";
+module.exports = __webpack_require__.p + "static/img/53vTbZFz.3310d4b.jpg";
 
 /***/ }),
 /* 851 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/gb+.102c03d.jpg";
+module.exports = __webpack_require__.p + "static/img/70181883.884ad41.jpg";
 
 /***/ }),
 /* 852 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/yoshitoshi.165f772.jpg";
+module.exports = __webpack_require__.p + "static/img/70182271.22cbc5c.jpg";
 
 /***/ }),
 /* 853 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/qz.b988ee7.png";
+module.exports = __webpack_require__.p + "static/img/NGC3621-.3f6cee7.jpg";
 
 /***/ }),
 /* 854 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/republic-of-china.f487f32.jpg";
+module.exports = __webpack_require__.p + "static/img/_8uD3NOc.e46e640.jpg";
 
 /***/ }),
 /* 855 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/role-play.6032c7d.png";
+module.exports = __webpack_require__.p + "static/img/aab1f208.5fd67e0.jpg";
 
 /***/ }),
 /* 856 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/swipe.5029d6f.png";
+module.exports = __webpack_require__.p + "static/img/b8dbb78b.a450d95.jpg";
 
 /***/ }),
 /* 857 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/terror-30.42c6624.jpg";
+module.exports = __webpack_require__.p + "static/img/chatSystems.7035c04.png";
 
 /***/ }),
 /* 858 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/world_map_mercator-mod.e290b23.jpg";
+module.exports = __webpack_require__.p + "static/img/gb+.102c03d.jpg";
 
 /***/ }),
 /* 859 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/img/world_map_mercator.a4dcb30.jpg";
+module.exports = __webpack_require__.p + "static/img/yoshitoshi.165f772.jpg";
 
 /***/ }),
-/* 860 */,
+/* 860 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/img/qz.b988ee7.png";
+
+/***/ }),
 /* 861 */
 /***/ (function(module, exports, __webpack_require__) {
 
-
-/* styles */
-__webpack_require__(718)
-
-var Component = __webpack_require__(1)(
-  /* script */
-  __webpack_require__(321),
-  /* template */
-  __webpack_require__(894),
-  /* scopeId */
-  null,
-  /* cssModules */
-  null
-)
-
-module.exports = Component.exports
-
+module.exports = __webpack_require__.p + "static/img/republic-of-china.f487f32.jpg";
 
 /***/ }),
 /* 862 */
 /***/ (function(module, exports, __webpack_require__) {
 
-
-/* styles */
-__webpack_require__(721)
-
-var Component = __webpack_require__(1)(
-  /* script */
-  __webpack_require__(322),
-  /* template */
-  __webpack_require__(897),
-  /* scopeId */
-  null,
-  /* cssModules */
-  null
-)
-
-module.exports = Component.exports
-
+module.exports = __webpack_require__.p + "static/img/role-play.6032c7d.png";
 
 /***/ }),
 /* 863 */
 /***/ (function(module, exports, __webpack_require__) {
 
-
-/* styles */
-__webpack_require__(713)
-
-var Component = __webpack_require__(1)(
-  /* script */
-  __webpack_require__(323),
-  /* template */
-  __webpack_require__(889),
-  /* scopeId */
-  null,
-  /* cssModules */
-  null
-)
-
-module.exports = Component.exports
-
+module.exports = __webpack_require__.p + "static/img/swipe.5029d6f.png";
 
 /***/ }),
 /* 864 */
 /***/ (function(module, exports, __webpack_require__) {
 
-
-/* styles */
-__webpack_require__(709)
-
-var Component = __webpack_require__(1)(
-  /* script */
-  __webpack_require__(324),
-  /* template */
-  __webpack_require__(885),
-  /* scopeId */
-  null,
-  /* cssModules */
-  null
-)
-
-module.exports = Component.exports
-
+module.exports = __webpack_require__.p + "static/img/terror-30.42c6624.jpg";
 
 /***/ }),
 /* 865 */
 /***/ (function(module, exports, __webpack_require__) {
 
+module.exports = __webpack_require__.p + "static/img/world_map_mercator-mod.e290b23.jpg";
+
+/***/ }),
+/* 866 */
+/***/ (function(module, exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "static/img/world_map_mercator.a4dcb30.jpg";
+
+/***/ }),
+/* 867 */,
+/* 868 */
+/***/ (function(module, exports, __webpack_require__) {
+
 
 /* styles */
-__webpack_require__(708)
+__webpack_require__(722)
 
 var Component = __webpack_require__(1)(
   /* script */
   __webpack_require__(325),
   /* template */
-  __webpack_require__(884),
+  __webpack_require__(901),
   /* scopeId */
   null,
   /* cssModules */
@@ -7079,7 +7111,29 @@ module.exports = Component.exports
 
 
 /***/ }),
-/* 866 */
+/* 869 */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+/* styles */
+__webpack_require__(725)
+
+var Component = __webpack_require__(1)(
+  /* script */
+  __webpack_require__(326),
+  /* template */
+  __webpack_require__(904),
+  /* scopeId */
+  null,
+  /* cssModules */
+  null
+)
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 870 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
@@ -7088,31 +7142,9 @@ __webpack_require__(717)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(326),
-  /* template */
-  __webpack_require__(893),
-  /* scopeId */
-  null,
-  /* cssModules */
-  null
-)
-
-module.exports = Component.exports
-
-
-/***/ }),
-/* 867 */
-/***/ (function(module, exports, __webpack_require__) {
-
-
-/* styles */
-__webpack_require__(726)
-
-var Component = __webpack_require__(1)(
-  /* script */
   __webpack_require__(327),
   /* template */
-  __webpack_require__(902),
+  __webpack_require__(896),
   /* scopeId */
   null,
   /* cssModules */
@@ -7123,12 +7155,12 @@ module.exports = Component.exports
 
 
 /***/ }),
-/* 868 */
+/* 871 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
 /* styles */
-__webpack_require__(716)
+__webpack_require__(713)
 
 var Component = __webpack_require__(1)(
   /* script */
@@ -7145,84 +7177,18 @@ module.exports = Component.exports
 
 
 /***/ }),
-/* 869 */
-/***/ (function(module, exports, __webpack_require__) {
-
-
-/* styles */
-__webpack_require__(714)
-
-var Component = __webpack_require__(1)(
-  /* script */
-  __webpack_require__(330),
-  /* template */
-  __webpack_require__(890),
-  /* scopeId */
-  null,
-  /* cssModules */
-  null
-)
-
-module.exports = Component.exports
-
-
-/***/ }),
-/* 870 */
-/***/ (function(module, exports, __webpack_require__) {
-
-
-/* styles */
-__webpack_require__(723)
-
-var Component = __webpack_require__(1)(
-  /* script */
-  __webpack_require__(331),
-  /* template */
-  __webpack_require__(899),
-  /* scopeId */
-  null,
-  /* cssModules */
-  null
-)
-
-module.exports = Component.exports
-
-
-/***/ }),
-/* 871 */
-/***/ (function(module, exports, __webpack_require__) {
-
-
-/* styles */
-__webpack_require__(724)
-
-var Component = __webpack_require__(1)(
-  /* script */
-  __webpack_require__(332),
-  /* template */
-  __webpack_require__(900),
-  /* scopeId */
-  null,
-  /* cssModules */
-  null
-)
-
-module.exports = Component.exports
-
-
-/***/ }),
 /* 872 */
 /***/ (function(module, exports, __webpack_require__) {
 
 
 /* styles */
-__webpack_require__(710)
+__webpack_require__(712)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(333),
+  __webpack_require__(329),
   /* template */
-  __webpack_require__(886),
+  __webpack_require__(891),
   /* scopeId */
   null,
   /* cssModules */
@@ -7238,13 +7204,13 @@ module.exports = Component.exports
 
 
 /* styles */
-__webpack_require__(707)
+__webpack_require__(721)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(334),
+  __webpack_require__(330),
   /* template */
-  __webpack_require__(883),
+  __webpack_require__(900),
   /* scopeId */
   null,
   /* cssModules */
@@ -7260,13 +7226,13 @@ module.exports = Component.exports
 
 
 /* styles */
-__webpack_require__(712)
+__webpack_require__(730)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(335),
+  __webpack_require__(331),
   /* template */
-  __webpack_require__(888),
+  __webpack_require__(909),
   /* scopeId */
   null,
   /* cssModules */
@@ -7282,13 +7248,13 @@ module.exports = Component.exports
 
 
 /* styles */
-__webpack_require__(722)
+__webpack_require__(720)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(337),
+  __webpack_require__(332),
   /* template */
-  __webpack_require__(898),
+  __webpack_require__(899),
   /* scopeId */
   null,
   /* cssModules */
@@ -7304,13 +7270,13 @@ module.exports = Component.exports
 
 
 /* styles */
-__webpack_require__(719)
+__webpack_require__(718)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(338),
+  __webpack_require__(334),
   /* template */
-  __webpack_require__(895),
+  __webpack_require__(897),
   /* scopeId */
   null,
   /* cssModules */
@@ -7326,13 +7292,13 @@ module.exports = Component.exports
 
 
 /* styles */
-__webpack_require__(715)
+__webpack_require__(727)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(339),
+  __webpack_require__(335),
   /* template */
-  __webpack_require__(891),
+  __webpack_require__(906),
   /* scopeId */
   null,
   /* cssModules */
@@ -7348,13 +7314,13 @@ module.exports = Component.exports
 
 
 /* styles */
-__webpack_require__(711)
+__webpack_require__(728)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(340),
+  __webpack_require__(336),
   /* template */
-  __webpack_require__(887),
+  __webpack_require__(907),
   /* scopeId */
   null,
   /* cssModules */
@@ -7370,13 +7336,13 @@ module.exports = Component.exports
 
 
 /* styles */
-__webpack_require__(705)
+__webpack_require__(714)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(341),
+  __webpack_require__(337),
   /* template */
-  __webpack_require__(881),
+  __webpack_require__(893),
   /* scopeId */
   null,
   /* cssModules */
@@ -7392,13 +7358,13 @@ module.exports = Component.exports
 
 
 /* styles */
-__webpack_require__(706)
+__webpack_require__(711)
 
 var Component = __webpack_require__(1)(
   /* script */
-  __webpack_require__(342),
+  __webpack_require__(338),
   /* template */
-  __webpack_require__(882),
+  __webpack_require__(890),
   /* scopeId */
   null,
   /* cssModules */
@@ -7410,6 +7376,160 @@ module.exports = Component.exports
 
 /***/ }),
 /* 881 */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+/* styles */
+__webpack_require__(716)
+
+var Component = __webpack_require__(1)(
+  /* script */
+  __webpack_require__(339),
+  /* template */
+  __webpack_require__(895),
+  /* scopeId */
+  null,
+  /* cssModules */
+  null
+)
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 882 */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+/* styles */
+__webpack_require__(726)
+
+var Component = __webpack_require__(1)(
+  /* script */
+  __webpack_require__(341),
+  /* template */
+  __webpack_require__(905),
+  /* scopeId */
+  null,
+  /* cssModules */
+  null
+)
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 883 */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+/* styles */
+__webpack_require__(723)
+
+var Component = __webpack_require__(1)(
+  /* script */
+  __webpack_require__(342),
+  /* template */
+  __webpack_require__(902),
+  /* scopeId */
+  null,
+  /* cssModules */
+  null
+)
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 884 */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+/* styles */
+__webpack_require__(719)
+
+var Component = __webpack_require__(1)(
+  /* script */
+  __webpack_require__(343),
+  /* template */
+  __webpack_require__(898),
+  /* scopeId */
+  null,
+  /* cssModules */
+  null
+)
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 885 */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+/* styles */
+__webpack_require__(715)
+
+var Component = __webpack_require__(1)(
+  /* script */
+  __webpack_require__(344),
+  /* template */
+  __webpack_require__(894),
+  /* scopeId */
+  null,
+  /* cssModules */
+  null
+)
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 886 */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+/* styles */
+__webpack_require__(709)
+
+var Component = __webpack_require__(1)(
+  /* script */
+  __webpack_require__(345),
+  /* template */
+  __webpack_require__(888),
+  /* scopeId */
+  null,
+  /* cssModules */
+  null
+)
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 887 */
+/***/ (function(module, exports, __webpack_require__) {
+
+
+/* styles */
+__webpack_require__(710)
+
+var Component = __webpack_require__(1)(
+  /* script */
+  __webpack_require__(346),
+  /* template */
+  __webpack_require__(889),
+  /* scopeId */
+  null,
+  /* cssModules */
+  null
+)
+
+module.exports = Component.exports
+
+
+/***/ }),
+/* 888 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -7436,7 +7556,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 882 */
+/* 889 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -7456,7 +7576,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 }]}
 
 /***/ }),
-/* 883 */
+/* 890 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -7634,7 +7754,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 884 */
+/* 891 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -7735,7 +7855,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 885 */
+/* 892 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -7812,7 +7932,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 886 */
+/* 893 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -7877,7 +7997,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 887 */
+/* 894 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -7897,7 +8017,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 888 */
+/* 895 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -7911,7 +8031,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 889 */
+/* 896 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -7960,7 +8080,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 890 */
+/* 897 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8012,7 +8132,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 891 */
+/* 898 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8057,7 +8177,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 }]}
 
 /***/ }),
-/* 892 */
+/* 899 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8095,7 +8215,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 893 */
+/* 900 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8144,7 +8264,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 894 */
+/* 901 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8227,7 +8347,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 895 */
+/* 902 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8239,38 +8359,38 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     staticClass: "swipe-sections"
   }, [_c('div', {
     staticClass: "swipe-cards"
-  }, [_vm._l((_vm.cards), function(card, index) {
-    return [(card.type === 'question') ? _c('div', {
-      staticClass: "swipe-card",
-      class: _vm.cardClasses(index),
-      attrs: {
-        "data-card-index": index
-      }
-    }, [_c('div', {
-      staticClass: "content"
-    }, [_c('div', {
-      staticClass: "paragraphs first",
-      domProps: {
-        "innerHTML": _vm._s(_vm.markdown(card.question))
-      }
-    })])]) : (card.type === 'text') ? _c('div', {
+  }, _vm._l((_vm.cards), function(card, index) {
+    return _c('div', {
       staticClass: "swipe-card",
       class: _vm.cardClasses(index),
       attrs: {
         "data-card-index": index,
         "id": card.id
       }
-    }, [_c('div', {
+    }, [(index > 0) ? _c('label', {
+      staticClass: "index"
+    }, [_vm._v(_vm._s(index))]) : _vm._e(), _vm._v(" "), (card.title) ? _c(card.id === 'cover' ? 'h1' : 'h2', {
+      tag: "component",
+      staticClass: "title",
+      domProps: {
+        "innerHTML": _vm._s(card.title)
+      }
+    }) : _vm._e(), _vm._v(" "), (card.type === 'question') ? [_c('div', {
       staticClass: "content"
-    }, [(card.title) ? _c('h1', {
-      staticClass: "small"
-    }, [_vm._v(_vm._s(card.title))]) : _vm._e(), _vm._v(" "), _c('div', {
+    }, [_c('div', {
+      staticClass: "paragraphs first",
+      domProps: {
+        "innerHTML": _vm._s(_vm.markdown(card.question))
+      }
+    })])] : (card.type === 'text') ? [_c('div', {
+      staticClass: "content"
+    }, [_c('div', {
       staticClass: "paragraphs",
       domProps: {
         "innerHTML": _vm._s(_vm.markdown(card.content))
       }
-    })])]) : _vm._e()]
-  })], 2), _vm._v(" "), _c('div', {
+    })])] : _vm._e()], 2)
+  })), _vm._v(" "), _c('div', {
     staticClass: "swipe-actions d-flex justify-content-around"
   }, [_c('div', {
     staticClass: "swipe-action d-flex justify-content-center align-items-center",
@@ -8321,7 +8441,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
       "name": "modal"
     }
   }, [(_vm.showResult) ? _c('div', {
-    staticClass: "result-container d-flex justify-content-center align-items-center",
+    staticClass: "result-container d-flex justify-content-center align-items-start",
     on: {
       "click": function($event) {
         if ($event.target !== $event.currentTarget) { return null; }
@@ -8346,15 +8466,29 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
   }), _vm._v(" "), (_vm.showMore) ? [_c('div', {
     staticClass: "more"
   }, _vm._l((_vm.activeCard.more), function(section) {
-    return (_vm.activeCard.more) ? _c('div', [(section.type === 'markdown') ? [_c('div', {
+    return (_vm.activeCard.more) ? _c('div', {
+      staticClass: "section",
+      class: section.type
+    }, [(section.type === 'markdown') ? [(section.content) ? _c('div', {
+      staticClass: "content a-text-only",
       domProps: {
         "innerHTML": _vm._s(_vm.markdown(section.content))
       }
-    })] : (section.type === 'figure') ? [_c('div', {
+    }) : _vm._e()] : (section.type === 'figure') ? [(section.platform === 'infogram') ? _c('iframe', {
+      staticClass: "figure",
+      attrs: {
+        "src": ("https://e.infogram.com/" + (section.id) + "?src=embed"),
+        "width": "100%",
+        "height": section.height,
+        "scrolling": "no",
+        "frameborder": "0"
+      }
+    }) : _vm._e(), _vm._v(" "), (section.description) ? _c('div', {
+      staticClass: "description",
       domProps: {
         "innerHTML": _vm._s(_vm.markdown(section.description))
       }
-    })] : _vm._e()], 2) : _vm._e()
+    }) : _vm._e()] : _vm._e()], 2) : _vm._e()
   })), _vm._v(" "), _c('div', {
     staticClass: "buttons"
   }, [_c('button', {
@@ -8384,7 +8518,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 896 */
+/* 903 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8420,7 +8554,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
     }, [_c('div', {
       staticClass: "title"
     }, [_c('h3', {
-      staticClass: "small"
+      staticClass: "small body-style"
     }, [_vm._v(_vm._s(page.title))])]), _vm._v(" "), (page.breaking) ? _c('div', {
       staticClass: "breaking"
     }, [_vm._v("NEW")]) : _vm._e()])
@@ -8428,7 +8562,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 897 */
+/* 904 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8740,7 +8874,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 898 */
+/* 905 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8754,7 +8888,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 899 */
+/* 906 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8772,7 +8906,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 900 */
+/* 907 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8918,7 +9052,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 901 */
+/* 908 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -8949,7 +9083,7 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 902 */
+/* 909 */
 /***/ (function(module, exports) {
 
 module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c=_vm._self._c||_h;
@@ -9011,12 +9145,12 @@ module.exports={render:function (){var _vm=this;var _h=_vm.$createElement;var _c
 },staticRenderFns: []}
 
 /***/ }),
-/* 903 */,
-/* 904 */,
-/* 905 */,
-/* 906 */,
-/* 907 */,
-/* 908 */
+/* 910 */,
+/* 911 */,
+/* 912 */,
+/* 913 */,
+/* 914 */,
+/* 915 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
@@ -9037,14 +9171,14 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 908;
+webpackContext.id = 915;
 
 /***/ }),
-/* 909 */
+/* 916 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./another-future.js": 313
+	"./another-future.js": 317
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -9060,21 +9194,23 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 909;
+webpackContext.id = 916;
 
 /***/ }),
-/* 910 */
+/* 917 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
 	"./3-principles": 162,
 	"./3-principles.js": 162,
-	"./republic-of-china": 163,
-	"./republic-of-china.js": 163,
-	"./terror-30": 164,
-	"./terror-30.js": 164,
-	"./yulamchia": 165,
-	"./yulamchia.js": 165
+	"./congress-midterm-mock-exam": 163,
+	"./congress-midterm-mock-exam.js": 163,
+	"./republic-of-china": 164,
+	"./republic-of-china.js": 164,
+	"./terror-30": 165,
+	"./terror-30.js": 165,
+	"./yulamchia": 166,
+	"./yulamchia.js": 166
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -9090,15 +9226,15 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 910;
+webpackContext.id = 917;
 
 /***/ }),
-/* 911 */
+/* 918 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./748": 166,
-	"./748.js": 166
+	"./748": 167,
+	"./748.js": 167
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -9114,15 +9250,15 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 911;
+webpackContext.id = 918;
 
 /***/ }),
-/* 912 */
+/* 919 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./labor-standard-act": 167,
-	"./labor-standard-act.js": 167
+	"./labor-standard-act": 168,
+	"./labor-standard-act.js": 168
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -9138,57 +9274,57 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 912;
+webpackContext.id = 919;
 
 /***/ }),
-/* 913 */
+/* 920 */
 /***/ (function(module, exports) {
 
 module.exports = [{"x":"2001","y":"1417169","label":"bian-1","show":true,"fix":true},{"x":"2002","y":"1304667","label":"bian-1","show":true,"fix":true},{"x":"2003","y":"1320924","label":"bian-1","show":true,"fix":true},{"x":"2004","y":"1368162","label":"bian-2","show":true,"fix":true},{"x":"2005","y":"1464506","label":"bian-2","show":true,"fix":true},{"x":"2006","y":"1546372","label":"bian-2","show":true,"fix":true},{"x":"2007","y":"1635462","label":"bian-2","show":true,"fix":true},{"x":"2008","y":"1640884","label":"ma-1","show":true,"fix":true},{"x":"2009","y":"1553710","label":"ma-1","show":true,"fix":true},{"x":"2010","y":"1497370","label":"ma-1","show":false,"fix":false},{"x":"2011","y":"1671309","label":"ma-1","show":false,"fix":false},{"x":"2012","y":"1668334","label":"ma-2","show":false,"fix":false},{"x":"2013","y":"1730497","label":"ma-2","show":false,"fix":false},{"x":"2014","y":"1726443","label":"ma-2","show":false,"fix":false},{"x":"2015","y":"1885672","label":"ma-2","show":false,"fix":false},{"x":"2016","y":"1822378","label":"tsai-1","show":false,"fix":false},{"x":"2017","y":"1841099","label":"tsai-1","show":false,"fix":false}]
 
 /***/ }),
-/* 914 */
+/* 921 */
 /***/ (function(module, exports) {
 
 module.exports = [{"x":"2001","y":"1559700","label":"bian-1","show":true,"fix":true},{"x":"2002","y":"1551943","label":"bian-1","show":true,"fix":true},{"x":"2003","y":"1618130","label":"bian-1","show":true,"fix":true},{"x":"2004","y":"1564799","label":"bian-2","show":true,"fix":true},{"x":"2005","y":"1566968","label":"bian-2","show":true,"fix":true},{"x":"2006","y":"1529815","label":"bian-2","show":true,"fix":true},{"x":"2007","y":"1552031","label":"bian-2","show":true,"fix":true},{"x":"2008","y":"1617674","label":"ma-1","show":true,"fix":true},{"x":"2009","y":"1714820","label":"ma-1","show":true,"fix":true},{"x":"2010","y":"1654428","label":"ma-1","show":false,"fix":false},{"x":"2011","y":"1734434","label":"ma-1","show":false,"fix":false},{"x":"2012","y":"1882402","label":"ma-2","show":false,"fix":false},{"x":"2013","y":"1855853","label":"ma-2","show":false,"fix":false},{"x":"2014","y":"1853586","label":"ma-2","show":false,"fix":false},{"x":"2015","y":"1895732","label":"ma-2","show":false,"fix":false},{"x":"2016","y":"1975866","label":"tsai-1","show":false,"fix":false},{"x":"2017","y":"1973996","label":"tsai-1","show":false,"fix":false}]
 
 /***/ }),
-/* 915 */
+/* 922 */
 /***/ (function(module, exports) {
 
 module.exports = [{"x":"2000","y":"2624037","label":"bian-1","show":true,"fix":true},{"x":"2001","y":"2831035","label":"bian-1","show":true,"fix":true},{"x":"2002","y":"2977692","label":"bian-1","show":true,"fix":true},{"x":"2003","y":"2248117","label":"bian-1","show":true,"fix":true},{"x":"2004","y":"2950342","label":"bian-2","show":true,"fix":true},{"x":"2005","y":"3378118","label":"bian-2","show":true,"fix":true},{"x":"2006","y":"3519827","label":"bian-2","show":true,"fix":true},{"x":"2007","y":"3716063","label":"bian-2","show":true,"fix":true},{"x":"2008","y":"3845187","label":"ma-1","show":false,"fix":false},{"x":"2009","y":"4395004","label":"ma-1","show":false,"fix":false},{"x":"2010","y":"5567277","label":"ma-1","show":false,"fix":false},{"x":"2011","y":"6087484","label":"ma-1","show":false,"fix":false},{"x":"2012","y":"7311470","label":"ma-2","show":false,"fix":false},{"x":"2013","y":"8016280","label":"ma-2","show":false,"fix":false},{"x":"2014","y":"9910204","label":"ma-2","show":false,"fix":false},{"x":"2015","y":"10439785","label":"ma-2","show":false,"fix":false},{"x":"2016","y":"10690279","label":"tsai-1","show":false,"fix":false}]
 
 /***/ }),
-/* 916 */
+/* 923 */
 /***/ (function(module, exports) {
 
 module.exports = [{"x":"2015/4","y":"355447","label":"ma-2","show":true,"fix":true},{"x":"2015/5","y":"372766","label":"ma-2","show":true,"fix":true},{"x":"2015/6","y":"308087","label":"ma-2","show":true,"fix":true},{"x":"2015/7","y":"352625","label":"ma-2","show":true,"fix":true},{"x":"2015/8","y":"367736","label":"ma-2","show":true,"fix":true},{"x":"2015/9","y":"345243","label":"ma-2","show":true,"fix":true},{"x":"2015/10","y":"383585","label":"ma-2","show":true,"fix":true},{"x":"2015/11","y":"357655","label":"ma-2","show":true,"fix":true},{"x":"2015/12","y":"327129","label":"ma-2","show":true,"fix":true},{"x":"2016/1","y":"366409","label":"ma-2","show":true,"fix":true},{"x":"2016/2","y":"405307","label":"ma-2","show":true,"fix":true},{"x":"2016/3","y":"363878","label":"ma-2","show":true,"fix":true},{"x":"2016/4","y":"375567","label":"ma-2","show":true,"fix":true},{"x":"2016/5","y":"327254","label":"tsai-1","show":false,"fix":false},{"x":"2016/6","y":"271478","label":"tsai-1","show":false,"fix":false},{"x":"2016/7","y":"299805","label":"tsai-1","show":false,"fix":false},{"x":"2016/8","y":"248538","label":"tsai-1","show":false,"fix":false},{"x":"2016/9","y":"214764","label":"tsai-1","show":false,"fix":false},{"x":"2016/10","y":"215390","label":"tsai-1","show":false,"fix":false},{"x":"2016/11","y":"202986","label":"tsai-1","show":false,"fix":false},{"x":"2016/12","y":"220358","label":"tsai-1","show":false,"fix":false},{"x":"2017/1","y":"255689","label":"tsai-1","show":false,"fix":false},{"x":"2017/2","y":"202287","label":"tsai-1","show":false,"fix":false},{"x":"2017/3","y":"201599","label":"tsai-1","show":false,"fix":false}]
 
 /***/ }),
-/* 917 */
+/* 924 */
 /***/ (function(module, exports) {
 
 module.exports = [{"x":"2015/4","y":"532564","label":"ma-2","show":true,"fix":true},{"x":"2015/5","y":"493614","label":"ma-2","show":true,"fix":true},{"x":"2015/6","y":"492060","label":"ma-2","show":true,"fix":true},{"x":"2015/7","y":"480614","label":"ma-2","show":true,"fix":true},{"x":"2015/8","y":"526522","label":"ma-2","show":true,"fix":true},{"x":"2015/9","y":"492131","label":"ma-2","show":true,"fix":true},{"x":"2015/10","y":"543365","label":"ma-2","show":true,"fix":true},{"x":"2015/11","y":"581828","label":"ma-2","show":true,"fix":true},{"x":"2015/12","y":"695768","label":"ma-2","show":true,"fix":true},{"x":"2016/1","y":"499521","label":"ma-2","show":true,"fix":true},{"x":"2016/2","y":"514848","label":"ma-2","show":true,"fix":true},{"x":"2016/3","y":"670852","label":"ma-2","show":true,"fix":true},{"x":"2016/4","y":"534756","label":"ma-2","show":true,"fix":true},{"x":"2016/5","y":"555311","label":"tsai-1","show":false,"fix":false},{"x":"2016/6","y":"546322","label":"tsai-1","show":false,"fix":false},{"x":"2016/7","y":"549064","label":"tsai-1","show":false,"fix":false},{"x":"2016/8","y":"615002","label":"tsai-1","show":false,"fix":false},{"x":"2016/9","y":"557477","label":"tsai-1","show":false,"fix":false},{"x":"2016/10","y":"630481","label":"tsai-1","show":false,"fix":false},{"x":"2016/11","y":"688171","label":"tsai-1","show":false,"fix":false},{"x":"2016/12","y":"816740","label":"tsai-1","show":false,"fix":false},{"x":"2017/1","y":"569110","label":"tsai-1","show":false,"fix":false},{"x":"2017/2","y":"585224","label":"tsai-1","show":false,"fix":false},{"x":"2017/3","y":"725048","label":"tsai-1","show":false,"fix":false}]
 
 /***/ }),
-/* 918 */
+/* 925 */
 /***/ (function(module, exports) {
 
 module.exports = [{"x":"2001","y":"2759386","label":"bian-1","show":true,"fix":true},{"x":"2002","y":"2849404","label":"bian-1","show":true,"fix":true},{"x":"2003","y":"3124741","label":"bian-1","show":true,"fix":true},{"x":"2004","y":"3362141","label":"bian-2","show":true,"fix":true},{"x":"2005","y":"3549617","label":"bian-2","show":true,"fix":true},{"x":"2006","y":"3622642","label":"bian-2","show":true,"fix":true},{"x":"2007","y":"3718196","label":"bian-2","show":true,"fix":true},{"x":"2008","y":"3778245","label":"ma-1","show":true,"fix":true},{"x":"2009","y":"4126794","label":"ma-1","show":true,"fix":true},{"x":"2010","y":"4536990","label":"ma-1","show":false,"fix":false},{"x":"2011","y":"4755087","label":"ma-1","show":false,"fix":false},{"x":"2012","y":"5000880","label":"ma-2","show":false,"fix":false},{"x":"2013","y":"5150837","label":"ma-2","show":false,"fix":false},{"x":"2014","y":"5280195","label":"ma-2","show":false,"fix":false},{"x":"2015","y":"5301173","label":"ma-2","show":false,"fix":false},{"x":"2016","y":"5372076","label":"tsai-1","show":false,"fix":false},{"x":"2017","y":"5511942","label":"tsai-1","show":false,"fix":false}]
 
 /***/ }),
-/* 919 */
+/* 926 */
 /***/ (function(module, exports) {
 
 module.exports = [{"x":"2000","y":"2.99","label":"bian-1","show":true,"fix":true},{"x":"2001","y":"4.57","label":"bian-1","show":true,"fix":true},{"x":"2002","y":"5.17","label":"bian-1","show":true,"fix":true},{"x":"2003","y":"4.99","label":"bian-1","show":true,"fix":true},{"x":"2004","y":"4.44","label":"bian-2","show":true,"fix":true},{"x":"2005","y":"4.13","label":"bian-2","show":true,"fix":true},{"x":"2006","y":"3.91","label":"bian-2","show":true,"fix":true},{"x":"2007","y":"3.91","label":"bian-2","show":true,"fix":true},{"x":"2008","y":"4.14","label":"ma-1","show":true,"fix":true},{"x":"2009","y":"5.85","label":"ma-1","show":false,"fix":false},{"x":"2010","y":"5.21","label":"ma-1","show":false,"fix":false},{"x":"2011","y":"4.39","label":"ma-1","show":false,"fix":false},{"x":"2012","y":"4.24","label":"ma-2","show":false,"fix":false},{"x":"2013","y":"4.18","label":"ma-2","show":false,"fix":false},{"x":"2014","y":"3.96","label":"ma-2","show":false,"fix":false},{"x":"2015","y":"3.78","label":"ma-2","show":false,"fix":false},{"x":"2016","y":"3.92","label":"tsai-1","show":false,"fix":false},{"x":"2017","y":"3.8","label":"tsai-1","show":false,"fix":false}]
 
 /***/ }),
-/* 920 */
+/* 927 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./same-sex-marriage-international-news-coverage": 287,
-	"./same-sex-marriage-international-news-coverage.json": 287
+	"./same-sex-marriage-international-news-coverage": 291,
+	"./same-sex-marriage-international-news-coverage.json": 291
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -9204,15 +9340,15 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 920;
+webpackContext.id = 927;
 
 /***/ }),
-/* 921 */
+/* 928 */
 /***/ (function(module, exports, __webpack_require__) {
 
 var map = {
-	"./dark.png": 283,
-	"./light.png": 284
+	"./dark.png": 287,
+	"./light.png": 288
 };
 function webpackContext(req) {
 	return __webpack_require__(webpackContextResolve(req));
@@ -9228,8 +9364,8 @@ webpackContext.keys = function webpackContextKeys() {
 };
 webpackContext.resolve = webpackContextResolve;
 module.exports = webpackContext;
-webpackContext.id = 921;
+webpackContext.id = 928;
 
 /***/ })
-]),[316]);
-//# sourceMappingURL=app.709d8f4777a6f2bb9dda.js.map
+]),[320]);
+//# sourceMappingURL=app.f9b20a40d284159e0e84.js.map
